@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv_sec="1354849375" tv_usec="140406167799295" name="region drag">
+    <MementoUndoCommand obj_id="196" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="165" name="restaurant_merge" start="0" length="18779285" position="1486848" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="196" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="165" name="restaurant_merge" start="0" length="18779285" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354849382" tv_usec="140406167799295" name="region drag">
+    <MementoUndoCommand obj_id="196" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="165" name="restaurant_merge" start="0" length="18779285" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="196" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="165" name="restaurant_merge" start="0" length="18779285" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+</UndoHistory>
