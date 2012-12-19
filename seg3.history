@@ -1,1425 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv_sec="1355937239" tv_usec="139679068911103" name="automation event move">
+  <UndoTransaction tv_sec="1355943282" tv_usec="467002" name="automation event move">
     <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
       <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18105149 0.844220459461212
-18185575 0.0189710389822721
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18105149 0.844220459461212
-18154830 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937255" tv_usec="139679068911103" name="automation event move">
-    <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18105149 0.844220459461212
-18154830 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18079766 0.844220399856567
-18154830 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937259" tv_usec="139679068911103" name="automation event move">
-    <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18079766 0.844220399856567
-18154830 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18079766 0.844220399856567
-18101213 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937266" tv_usec="139679068911103" name="automation event move">
-    <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18079766 0.844220399856567
+        <events>1430898 0.798629820346832
+18085128 0.899849832057953
 18101213 0
 </events>
       </AutomationList>
     </MementoUndoCommand>
     <MementoRedoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
       <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18085128 1.00052154064178
+        <events>1430898 0.798629820346832
+18085128 0.852213084697723
 18101213 0
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937273" tv_usec="139679068911103" name="automation event move">
-    <MementoUndoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18094426 0.991601407527924
-19205730 0
+  <UndoTransaction tv_sec="1355943297" tv_usec="706393" name="automation event move">
+    <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1430898 0.798629820346832
+18085128 0.852213084697723
+18101213 0
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18090489 1.00052154064178
-19205730 0
+    <MementoRedoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1408185 0.891554415225983
+18085128 0.852213084697723
+18101213 0
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937336" tv_usec="139679068911103" name="region drag">
-    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1528727" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.1" start="3532534" length="2268646" position="18126596" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-        <Crossfade out="665" in="866" active="yes" follow-overlap="yes" fixed="no" length="3309" anchor-point="0" position="18126596">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="551" y="0.282192"/>
-            <point x="1102" y="0.518174"/>
-            <point x="1654" y="0.707946"/>
-            <point x="2206" y="0.851507"/>
-            <point x="2757" y="0.948859"/>
-            <point x="3309" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="551" y="0.948859"/>
-            <point x="1102" y="0.851507"/>
-            <point x="1654" y="0.707946"/>
-            <point x="2206" y="0.518174"/>
-            <point x="2757" y="0.282192"/>
-            <point x="3309" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+  <UndoTransaction tv_sec="1355943312" tv_usec="514013" name="automation event move">
+    <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1408185 0.891554415225983
+18085128 0.852213084697723
+18101213 0
+</events>
+      </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1528727" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.1" start="3532534" length="2268646" position="18131582" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+    <MementoRedoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1408185 0.891554415225983
+18056571 0.852213084697723
+18101213 0
+</events>
+      </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937340" tv_usec="139679068911103" name="Region end trim">
-    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1528727" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.1" start="3532534" length="2268646" position="18131582" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+  <UndoTransaction tv_sec="1355943384" tv_usec="142986" name="automation event move">
+    <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1408185 0.891554415225983
+18056571 0.852213084697723
+18101213 0
+</events>
+      </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.1" start="3532534" length="2268646" position="18131582" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.1" start="3532534" length="2268646" position="18131582" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+    <MementoRedoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1408185 0.891554415225983
+18056571 0.89419037103653
+18101213 0
+</events>
+      </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937343" tv_usec="139679068911103" name="Region start trim">
-    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.1" start="3532534" length="2268646" position="18131582" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+  <UndoTransaction tv_sec="1355943388" tv_usec="398763" name="automation event move">
+    <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1408185 0.891554415225983
+18056571 0.89419037103653
+18101213 0
+</events>
+      </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18129736" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18129736" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+    <MementoRedoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1408185 0.891554415225983
+18056571 0.87302953004837
+18101213 0
+</events>
+      </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937346" tv_usec="139679068911103" name="region drag">
-    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18129736" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18124381" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-        <Crossfade out="665" in="866" active="yes" follow-overlap="yes" fixed="no" length="2754" anchor-point="0" position="18124381">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="459" y="0.282192"/>
-            <point x="917" y="0.518174"/>
-            <point x="1377" y="0.707946"/>
-            <point x="1836" y="0.851507"/>
-            <point x="2294" y="0.948859"/>
-            <point x="2754" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="459" y="0.948859"/>
-            <point x="917" y="0.851507"/>
-            <point x="1377" y="0.707946"/>
-            <point x="1836" y="0.518174"/>
-            <point x="2294" y="0.282192"/>
-            <point x="2754" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937363" tv_usec="139679068911103" name="region drag">
-    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18124381" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-        <Crossfade out="665" in="866" active="yes" follow-overlap="yes" fixed="no" length="2754" anchor-point="0" position="18124381">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="459" y="0.282192"/>
-            <point x="917" y="0.518174"/>
-            <point x="1377" y="0.707946"/>
-            <point x="1836" y="0.851507"/>
-            <point x="2294" y="0.948859"/>
-            <point x="2754" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="459" y="0.948859"/>
-            <point x="917" y="0.851507"/>
-            <point x="1377" y="0.707946"/>
-            <point x="1836" y="0.518174"/>
-            <point x="2294" y="0.282192"/>
-            <point x="2754" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18130475" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937365" tv_usec="139679068911103" name="Region end trim">
-    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1525957" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18130475" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1524665" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18130475" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1524665" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18130475" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937369" tv_usec="139679068911103" name="region drag">
-    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1524665" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18130475" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1524665" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18124381" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-        <Crossfade out="665" in="866" active="yes" follow-overlap="yes" fixed="no" length="1462" anchor-point="0" position="18124381">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="243" y="0.282192"/>
-            <point x="487" y="0.518174"/>
-            <point x="731" y="0.707946"/>
-            <point x="974" y="0.851507"/>
-            <point x="1218" y="0.948859"/>
-            <point x="1462" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="243" y="0.948859"/>
-            <point x="487" y="0.851507"/>
-            <point x="731" y="0.707946"/>
-            <point x="974" y="0.518174"/>
-            <point x="1218" y="0.282192"/>
-            <point x="1462" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937380" tv_usec="139679068911103" name="mute change">
-    <MementoCommand obj_id="139" type_name="N6ARDOUR10AudioTrackE">
-      <Route default-type="audio" muted="yes" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=1:signal=1" mode="Normal" diskstream-id="146">
-        <IO name="restaurant_merge" id="139" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{Bus 1/in 1}{Bus 2/in 1}" gain="1.000000000000" iolimits="1,-1,-1,-1">
-          <Panner linked="no" link_direction="SameDirection" bypassed="no">
-            <Output x="0" y="0"/>
-            <Output x="1" y="0"/>
-            <StreamPanner x="0" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="151" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
-              </Automation>
-              <controllable name="panner" id="150"/>
-            </StreamPanner>
-            <StreamPanner x="1" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="154" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
-              </Automation>
-              <controllable name="panner" id="153"/>
-            </StreamPanner>
-          </Panner>
-          <controllable name="gaincontrol" id="140"/>
-          <Automation>
-            <AutomationList id="141" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
-          </Automation>
-        </IO>
-        <controllable name="solo" id="143"/>
-        <controllable name="mute" id="144"/>
-        <remote_control id="2"/>
-        <extra>
-          <GUI color="44914:19856:8987" shown_mixer="yes" height="68" strip_width="Wide" shown_editor="yes">
-            <gain shown="no" height="68"/>
-            <pan shown="no" height="68"/>
-          </GUI>
-        </extra>
-        <alignment style="ExistingMaterial"/>
-        <controllable name="recenable" id="389"/>
-      </Route>
-      <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=1:signal=1" mode="Normal" diskstream-id="146">
-        <IO name="restaurant_merge" id="139" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{Bus 1/in 1}{Bus 2/in 1}" gain="1.000000000000" iolimits="1,-1,-1,-1">
-          <Panner linked="no" link_direction="SameDirection" bypassed="no">
-            <Output x="0" y="0"/>
-            <Output x="1" y="0"/>
-            <StreamPanner x="0" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="151" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
-              </Automation>
-              <controllable name="panner" id="150"/>
-            </StreamPanner>
-            <StreamPanner x="1" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="154" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
-              </Automation>
-              <controllable name="panner" id="153"/>
-            </StreamPanner>
-          </Panner>
-          <controllable name="gaincontrol" id="140"/>
-          <Automation>
-            <AutomationList id="141" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
-          </Automation>
-        </IO>
-        <controllable name="solo" id="143"/>
-        <controllable name="mute" id="144"/>
-        <remote_control id="2"/>
-        <extra>
-          <GUI color="44914:19856:8987" shown_mixer="yes" height="68" strip_width="Wide" shown_editor="yes">
-            <gain shown="no" height="68"/>
-            <pan shown="no" height="68"/>
-          </GUI>
-        </extra>
-        <alignment style="ExistingMaterial"/>
-        <controllable name="recenable" id="389"/>
-      </Route>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937420" tv_usec="139679068911103" name="Region end trim">
-    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1524665" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="2270492" position="18124381" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-        <Crossfade out="665" in="866" active="yes" follow-overlap="yes" fixed="no" length="1462" anchor-point="0" position="18124381">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="243" y="0.282192"/>
-            <point x="487" y="0.518174"/>
-            <point x="731" y="0.707946"/>
-            <point x="974" y="0.851507"/>
-            <point x="1218" y="0.948859"/>
-            <point x="1462" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="243" y="0.948859"/>
-            <point x="487" y="0.851507"/>
-            <point x="731" y="0.707946"/>
-            <point x="974" y="0.518174"/>
-            <point x="1218" y="0.282192"/>
-            <point x="1462" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1524665" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="1203410" position="18124381" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-        <Crossfade out="665" in="866" active="yes" follow-overlap="yes" fixed="no" length="1462" anchor-point="0" position="18124381">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="243" y="0.282192"/>
-            <point x="487" y="0.518174"/>
-            <point x="731" y="0.707946"/>
-            <point x="974" y="0.851507"/>
-            <point x="1218" y="0.948859"/>
-            <point x="1462" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="243" y="0.948859"/>
-            <point x="487" y="0.851507"/>
-            <point x="731" y="0.707946"/>
-            <point x="974" y="0.518174"/>
-            <point x="1218" y="0.282192"/>
-            <point x="1462" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
-        <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="665" name="lair_amb001.3" start="3532534" length="1524665" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="866" name="lair_amb001.4" start="3530688" length="1203410" position="18124381" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="315" y="0.282192"/>
-            <point x="630" y="0.518174"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.851507"/>
-            <point x="1577" y="0.948859"/>
-            <point x="1893" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="315" y="0.948859"/>
-            <point x="630" y="0.851507"/>
-            <point x="946" y="0.707946"/>
-            <point x="1262" y="0.518174"/>
-            <point x="1577" y="0.282192"/>
-            <point x="1893" y="0"/>
-          </FadeOut>
-        </Crossfade>
-        <Crossfade out="665" in="866" active="yes" follow-overlap="yes" fixed="no" length="1462" anchor-point="0" position="18124381">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="243" y="0.282192"/>
-            <point x="487" y="0.518174"/>
-            <point x="731" y="0.707946"/>
-            <point x="974" y="0.851507"/>
-            <point x="1218" y="0.948859"/>
-            <point x="1462" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="243" y="0.948859"/>
-            <point x="487" y="0.851507"/>
-            <point x="731" y="0.707946"/>
-            <point x="974" y="0.518174"/>
-            <point x="1218" y="0.282192"/>
-            <point x="1462" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937652" tv_usec="139679068911103" name="split">
-    <MementoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
-        <Region id="165" name="restaurant_merge" start="0" length="18779285" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
-        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1002" name="restaurant_merge.2" start="15783445" length="2995840" position="15801877" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15783445" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937660" tv_usec="139679068911103" name="split">
-    <MementoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
-        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1002" name="restaurant_merge.2" start="15783445" length="2995840" position="15801877" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15783445" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
-        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1013" name="restaurant_merge.3" start="15783445" length="32768" position="15801877" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15783445" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1019" name="restaurant_merge.4" start="15816213" length="2963072" position="15834645" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937663" tv_usec="139679068911103" name="cut objects">
-    <MementoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
-        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1013" name="restaurant_merge.3" start="15783445" length="32768" position="15801877" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15783445" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1019" name="restaurant_merge.4" start="15816213" length="2963072" position="15834645" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
-        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1019" name="restaurant_merge.4" start="15816213" length="2963072" position="15834645" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1355937666" tv_usec="139679068911103" name="region drag">
-    <MementoUndoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
-        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1019" name="restaurant_merge.4" start="15816213" length="2963072" position="15834645" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355943587" tv_usec="852303" name="split">
+    <MementoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
         <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
           <FadeIn default="yes" active="yes"/>
@@ -1440,55 +112,1210 @@
         <Crossfade out="996" in="1019" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
           <FadeIn>
             <point x="0" y="0"/>
-            <point x="1365" y="0.282192"/>
-            <point x="2730" y="0.518174"/>
-            <point x="4096" y="0.707946"/>
-            <point x="5461" y="0.851507"/>
-            <point x="6826" y="0.948859"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
             <point x="8192" y="1"/>
           </FadeIn>
           <FadeOut>
             <point x="0" y="1"/>
-            <point x="1365" y="0.948859"/>
-            <point x="2730" y="0.851507"/>
-            <point x="4096" y="0.707946"/>
-            <point x="5461" y="0.518174"/>
-            <point x="6826" y="0.282192"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18038306" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943589" tv_usec="855838" name="region drag">
+    <MementoUndoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18038306" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18184111" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
             <point x="8192" y="0"/>
           </FadeOut>
         </Crossfade>
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937748" tv_usec="139679068911103" name="automation event move">
+  <UndoTransaction tv_sec="1355943618" tv_usec="654207" name="automation event move">
     <MementoUndoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
       <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18090489 1.00052154064178
-19205730 0
+        <events>1414101 0.712532162666321
+18065878 0.719654560089111
+18855613 0.0986512079834938
+19086028 0
 </events>
       </AutomationList>
     </MementoUndoCommand>
     <MementoRedoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
       <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18090489 1.00052154064178
+        <events>1414101 0.712532162666321
+18065878 0.719654560089111
+18828634 0.460786789655685
 19086028 0
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937773" tv_usec="139679068911103" name="add gain automation event">
-    <MementoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
+  <UndoTransaction tv_sec="1355943622" tv_usec="134080" name="automation event move">
+    <MementoUndoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
       <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18090489 1.00052154064178
+        <events>1414101 0.712532162666321
+18065878 0.719654560089111
+18828634 0.460786789655685
 19086028 0
 </events>
       </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
       <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18090489 1.00052154064178
-18855613 0.0986512079834938
-19086028 0
+        <events>1414101 0.712532162666321
+18065878 0.719654560089111
+18828634 0.460786789655685
+19342263 0
 </events>
       </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943659" tv_usec="284777" name="automation event move">
+    <MementoUndoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1414101 0.712532162666321
+18065878 0.719654560089111
+18828634 0.460786789655685
+19342263 0
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1414101 0.712532162666321
+18065878 0.719654560089111
+18739164 0.671952307224274
+19342263 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943664" tv_usec="100482" name="automation event move">
+    <MementoUndoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1414101 0.712532162666321
+18065878 0.719654560089111
+18739164 0.671952307224274
+19342263 0
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>1414101 0.712532162666321
+18065878 0.719654560089111
+18739164 0.671952307224274
+19087106 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943682" tv_usec="476258" name="region drag">
+    <MementoUndoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18184111" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18190739" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943704" tv_usec="635488" name="region drag">
+    <MementoUndoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18190739" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18200680" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943736" tv_usec="738291" name="region drag">
+    <MementoUndoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18200680" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18204477" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943753" tv_usec="777412" name="region drag">
+    <MementoUndoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18204477" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18203211" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943823" tv_usec="86863" name="region drag">
+    <MementoUndoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18203211" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18205145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943835" tv_usec="950360" name="region drag">
+    <MementoUndoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18205145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18206112" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943900" tv_usec="741728" name="split">
+    <MementoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1830" name="restaurant_merge.6" start="18060834" length="718451" position="18206112" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1896" name="restaurant_merge.7" start="18060834" length="69486" position="18206112" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1902" name="restaurant_merge.8" start="18130320" length="648965" position="18275598" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="18130320" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
     </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943905" tv_usec="134594" name="split">
+    <MementoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1896" name="restaurant_merge.7" start="18060834" length="69486" position="18206112" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1902" name="restaurant_merge.8" start="18130320" length="648965" position="18275598" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="18130320" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1896" name="restaurant_merge.7" start="18060834" length="69486" position="18206112" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1913" name="restaurant_merge.9" start="18130320" length="83640" position="18275598" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="18130320" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1919" name="restaurant_merge.10" start="18213960" length="565325" position="18359238" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="18213960" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1355943907" tv_usec="852603" name="region drag">
+    <MementoUndoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1896" name="restaurant_merge.7" start="18060834" length="69486" position="18206112" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1913" name="restaurant_merge.9" start="18130320" length="83640" position="18275598" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="18130320" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1919" name="restaurant_merge.10" start="18213960" length="565325" position="18359238" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="18213960" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1455" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
+        <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1824" name="restaurant_merge.5" start="15816213" length="2244621" position="15793685" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15816213" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1896" name="restaurant_merge.7" start="18060834" length="69486" position="18206112" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="18060834" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1913" name="restaurant_merge.9" start="18130320" length="83640" position="18282366" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="18130320" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1919" name="restaurant_merge.10" start="18213960" length="565325" position="18359238" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="18213960" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="996" in="1824" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1365" y="0.282191991806"/>
+            <point x="2730" y="0.518173992634"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.851507008076"/>
+            <point x="6826" y="0.948858976364"/>
+            <point x="8192" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1365" y="0.948858976364"/>
+            <point x="2730" y="0.851507008076"/>
+            <point x="4096" y="0.707946002483"/>
+            <point x="5461" y="0.518173992634"/>
+            <point x="6826" y="0.282191991806"/>
+            <point x="8192" y="0"/>
+          </FadeOut>
+        </Crossfade>
+        <Crossfade out="1913" in="1919" active="yes" follow-overlap="yes" fixed="no" length="6768" anchor-point="2" position="18359238">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="1128" y="0.282192"/>
+            <point x="2255" y="0.518174"/>
+            <point x="3384" y="0.707946"/>
+            <point x="4512" y="0.851507"/>
+            <point x="5639" y="0.948859"/>
+            <point x="6768" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="1128" y="0.948859"/>
+            <point x="2255" y="0.851507"/>
+            <point x="3384" y="0.707946"/>
+            <point x="4512" y="0.518174"/>
+            <point x="5639" y="0.282192"/>
+            <point x="6768" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoRedoCommand>
   </UndoTransaction>
 </UndoHistory>
