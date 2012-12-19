@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv_sec="1355937239" tv_usec="642173" name="automation event move">
+  <UndoTransaction tv_sec="1355937239" tv_usec="139679068911103" name="automation event move">
     <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
       <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>18105149 0.844220459461212
@@ -16,7 +16,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937255" tv_usec="585663" name="automation event move">
+  <UndoTransaction tv_sec="1355937255" tv_usec="139679068911103" name="automation event move">
     <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
       <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>18105149 0.844220459461212
@@ -32,7 +32,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937259" tv_usec="361343" name="automation event move">
+  <UndoTransaction tv_sec="1355937259" tv_usec="139679068911103" name="automation event move">
     <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
       <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>18079766 0.844220399856567
@@ -48,7 +48,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937266" tv_usec="321100" name="automation event move">
+  <UndoTransaction tv_sec="1355937266" tv_usec="139679068911103" name="automation event move">
     <MementoUndoCommand obj_id="609" type_name="N6ARDOUR5CurveE">
       <AutomationList id="609" default="1.49103426933" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>18079766 0.844220399856567
@@ -64,7 +64,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937273" tv_usec="200879" name="automation event move">
+  <UndoTransaction tv_sec="1355937273" tv_usec="139679068911103" name="automation event move">
     <MementoUndoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
       <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>18094426 0.991601407527924
@@ -80,8 +80,8 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937336" tv_usec="223269" name="region drag">
-    <MementoUndoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937336" tv_usec="139679068911103" name="region drag">
+    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -149,7 +149,7 @@
         </Crossfade>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -198,8 +198,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937340" tv_usec="495861" name="Region end trim">
-    <MementoUndoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937340" tv_usec="139679068911103" name="Region end trim">
+    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -247,7 +247,7 @@
         </Crossfade>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -295,7 +295,7 @@
         </Crossfade>
       </Playlist>
     </MementoRedoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -344,8 +344,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937343" tv_usec="416528" name="Region start trim">
-    <MementoUndoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937343" tv_usec="139679068911103" name="Region start trim">
+    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -393,7 +393,7 @@
         </Crossfade>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -441,7 +441,7 @@
         </Crossfade>
       </Playlist>
     </MementoRedoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -490,8 +490,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937346" tv_usec="254910" name="region drag">
-    <MementoUndoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937346" tv_usec="139679068911103" name="region drag">
+    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -539,7 +539,7 @@
         </Crossfade>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -608,8 +608,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937363" tv_usec="294159" name="region drag">
-    <MementoUndoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937363" tv_usec="139679068911103" name="region drag">
+    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -677,7 +677,7 @@
         </Crossfade>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -726,8 +726,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937365" tv_usec="430788" name="Region end trim">
-    <MementoUndoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937365" tv_usec="139679068911103" name="Region end trim">
+    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -775,7 +775,7 @@
         </Crossfade>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -823,7 +823,7 @@
         </Crossfade>
       </Playlist>
     </MementoRedoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -872,8 +872,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937369" tv_usec="254410" name="region drag">
-    <MementoUndoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937369" tv_usec="139679068911103" name="region drag">
+    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -921,7 +921,7 @@
         </Crossfade>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -990,7 +990,7 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937380" tv_usec="302097" name="mute change">
+  <UndoTransaction tv_sec="1355937380" tv_usec="139679068911103" name="mute change">
     <MementoCommand obj_id="139" type_name="N6ARDOUR10AudioTrackE">
       <Route default-type="audio" muted="yes" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=1:signal=1" mode="Normal" diskstream-id="146">
         <IO name="restaurant_merge" id="139" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{Bus 1/in 1}{Bus 2/in 1}" gain="1.000000000000" iolimits="1,-1,-1,-1">
@@ -1064,8 +1064,8 @@
       </Route>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937420" tv_usec="460299" name="Region end trim">
-    <MementoUndoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937420" tv_usec="139679068911103" name="Region end trim">
+    <MementoUndoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -1133,7 +1133,7 @@
         </Crossfade>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -1201,7 +1201,7 @@
         </Crossfade>
       </Playlist>
     </MementoRedoCommand>
-    <MementoRedoCommand obj_id="532" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1097" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="lair_amb001" orig_diskstream_id="531" frozen="no">
         <Region id="550" name="lair_amb001.2" start="479232" length="16603071" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
           <FadeIn default="yes" active="yes"/>
@@ -1270,8 +1270,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937652" tv_usec="866555" name="split">
-    <MementoCommand obj_id="358" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937652" tv_usec="139679068911103" name="split">
+    <MementoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
         <Region id="165" name="restaurant_merge" start="0" length="18779285" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
           <FadeIn default="yes" active="yes"/>
@@ -1302,8 +1302,8 @@
       </Playlist>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937660" tv_usec="656057" name="split">
-    <MementoCommand obj_id="358" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937660" tv_usec="139679068911103" name="split">
+    <MementoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
         <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
           <FadeIn default="yes" active="yes"/>
@@ -1350,8 +1350,8 @@
       </Playlist>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937663" tv_usec="461332" name="cut objects">
-    <MementoCommand obj_id="358" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937663" tv_usec="139679068911103" name="cut objects">
+    <MementoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
         <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
           <FadeIn default="yes" active="yes"/>
@@ -1398,8 +1398,8 @@
       </Playlist>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937666" tv_usec="778502" name="region drag">
-    <MementoUndoCommand obj_id="358" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1355937666" tv_usec="139679068911103" name="region drag">
+    <MementoUndoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
         <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
           <FadeIn default="yes" active="yes"/>
@@ -1419,7 +1419,7 @@
         </Region>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="358" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1082" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="restaurant_merge" orig_diskstream_id="146" frozen="no">
         <Region id="996" name="restaurant_merge.1" start="0" length="15783445" position="18432" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
           <FadeIn default="yes" active="yes"/>
@@ -1460,7 +1460,7 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937748" tv_usec="694273" name="automation event move">
+  <UndoTransaction tv_sec="1355937748" tv_usec="139679068911103" name="automation event move">
     <MementoUndoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
       <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>18090489 1.00052154064178
@@ -1476,7 +1476,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1355937773" tv_usec="104239" name="add gain automation event">
+  <UndoTransaction tv_sec="1355937773" tv_usec="139679068911103" name="add gain automation event">
     <MementoCommand obj_id="600" type_name="N6ARDOUR5CurveE">
       <AutomationList id="600" default="0.731302380562" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>18090489 1.00052154064178

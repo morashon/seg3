@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="2.0.0" name="seg3" sample-rate="44100" id-counter="1050">
+<Session version="2.0.0" name="seg3" sample-rate="44100" id-counter="1423">
   <Config>
     <Option name="output-auto-connect" value="2"/>
     <Option name="input-auto-connect" value="1"/>
@@ -12,8 +12,8 @@
   <Sources>
     <Source name="restaurant_merge-L.wav" id="130" flags="" channel="0"/>
     <Source name="restaurant_merge-R.wav" id="132" flags="" channel="0"/>
-    <Source name="lair_amb001-L.wav" id="515" flags="Writable,CanRename,Removable,RemovableIfEmpty" channel="0"/>
-    <Source name="lair_amb001-R.wav" id="517" flags="Writable,CanRename,Removable,RemovableIfEmpty" channel="0"/>
+    <Source name="lair_amb001-L.wav" id="515" flags="" channel="0"/>
+    <Source name="lair_amb001-R.wav" id="517" flags="" channel="0"/>
   </Sources>
   <Regions>
     <Region id="134" name="restaurant_merge" start="0" length="18779285" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
@@ -21,7 +21,7 @@
       <FadeOut default="yes" active="yes"/>
       <Envelope default="yes"/>
     </Region>
-    <Region id="519" name="lair_amb001" start="0" length="17394344" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
+    <Region id="519" name="lair_amb001" start="0" length="17394344" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
       <FadeIn default="yes" active="yes"/>
       <FadeOut default="yes" active="yes"/>
       <Envelope default="yes"/>
@@ -34,7 +34,7 @@
         <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
       </extra>
     </Region>
-    <Region id="1013" name="restaurant_merge.3" start="15783445" length="32768" position="15801877" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="1" sync-position="15783445" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
+    <Region id="1013" name="restaurant_merge.3" start="15783445" length="32768" position="15801877" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="15783445" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="130" source-1="132" channels="2" master-source-0="130" master-source-1="132">
       <FadeIn default="yes" active="yes"/>
       <FadeOut default="yes" active="yes"/>
       <Envelope default="yes"/>
@@ -115,13 +115,13 @@
       <controllable name="mute" id="144"/>
       <remote_control id="2"/>
       <extra>
-        <GUI color="44914:19856:8987" shown_mixer="yes" height="68" strip_width="Wide" shown_editor="yes">
+        <GUI color="44914:19856:8987" strip_width="Wide" shown_mixer="yes" height="68" shown_editor="yes">
           <gain shown="no" height="68"/>
           <pan shown="no" height="68"/>
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="389"/>
+      <controllable name="recenable" id="1146"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2">
       <IO name="Bus 2" id="288" active="yes" inputs="{restaurant_merge/out 2}" outputs="{master/in 1}{master/in 2}" gain="1.148873329163" iolimits="-1,-1,-1,-1">
@@ -262,7 +262,7 @@
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=4:signal=4" mode="Normal" diskstream-id="531">
-      <IO name="lair_amb001" id="524" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{Bass/in 1}{Piano/in 1}" gain="0.134123235941" iolimits="1,-1,-1,-1">
+      <IO name="lair_amb001" id="524" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{Bass/in 1}{Piano/in 1}" gain="0.553546547890" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -281,27 +281,27 @@
         </Panner>
         <controllable name="gaincontrol" id="525"/>
         <Automation>
-          <AutomationList id="526" default="0.134123235941" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+          <AutomationList id="526" default="0.55354654789" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
         </Automation>
       </IO>
       <controllable name="solo" id="528"/>
       <controllable name="mute" id="529"/>
       <remote_control id="5"/>
       <extra>
-        <GUI color="41081:16626:8485" shown_mixer="yes" strip_width="Wide" height="170" shown_editor="yes">
-          <gain height="68" shown="no"/>
-          <pan height="68" shown="no"/>
+        <GUI color="41081:16626:8485" strip_width="Wide" shown_mixer="yes" height="170" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="530"/>
+      <controllable name="recenable" id="1183"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5">
-      <IO name="Bass" id="598" active="yes" inputs="{lair_amb001/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.024714713916" iolimits="-1,-1,-1,-1">
+      <IO name="Bass" id="598" active="yes" inputs="{lair_amb001/out 1}" outputs="{master/in 1}{master/in 2}" gain="1.000521540642" iolimits="-1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
-          <StreamPanner x="0.0750000029802" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="0.0500000044703" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="606" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
             </Automation>
@@ -352,18 +352,18 @@
         </PortAutomation>
       </Insert>
       <extra>
-        <GUI color="12006:30070:8156" height="68" shown_mixer="yes" shown_editor="yes">
-          <gain height="68" shown="yes"/>
-          <pan height="68" shown="no"/>
+        <GUI color="12006:30070:8156" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="yes" height="68"/>
+          <pan shown="no" height="68"/>
         </GUI>
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=6:signal=6">
-      <IO name="Piano" id="607" active="yes" inputs="{lair_amb001/out 2}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="-1,-1,-1,-1">
+      <IO name="Piano" id="607" active="yes" inputs="{lair_amb001/out 2}" outputs="{master/in 1}{master/in 2}" gain="1.000521540642" iolimits="-1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
-          <StreamPanner x="0.862500011921" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="0.925000011921" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="615" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
             </Automation>
@@ -413,9 +413,9 @@
         </PortAutomation>
       </Insert>
       <extra>
-        <GUI color="22988:33651:11123" height="68" shown_mixer="yes" shown_editor="yes">
-          <gain height="68" shown="yes"/>
-          <pan height="68" shown="no"/>
+        <GUI color="22988:33651:11123" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="yes" height="68"/>
+          <pan shown="no" height="68"/>
         </GUI>
       </extra>
     </Route>
@@ -443,20 +443,20 @@
       <Crossfade out="996" in="1019" active="yes" follow-overlap="yes" fixed="no" length="8192" anchor-point="0" position="15793685">
         <FadeIn>
           <point x="0" y="0"/>
-          <point x="1365" y="0.282192"/>
-          <point x="2730" y="0.518174"/>
-          <point x="4096" y="0.707946"/>
-          <point x="5461" y="0.851507"/>
-          <point x="6826" y="0.948859"/>
+          <point x="1365" y="0.282191991806"/>
+          <point x="2730" y="0.518173992634"/>
+          <point x="4096" y="0.707946002483"/>
+          <point x="5461" y="0.851507008076"/>
+          <point x="6826" y="0.948858976364"/>
           <point x="8192" y="1"/>
         </FadeIn>
         <FadeOut>
           <point x="0" y="1"/>
-          <point x="1365" y="0.948859"/>
-          <point x="2730" y="0.851507"/>
-          <point x="4096" y="0.707946"/>
-          <point x="5461" y="0.518174"/>
-          <point x="6826" y="0.282192"/>
+          <point x="1365" y="0.948858976364"/>
+          <point x="2730" y="0.851507008076"/>
+          <point x="4096" y="0.707946002483"/>
+          <point x="5461" y="0.518173992634"/>
+          <point x="6826" y="0.282191991806"/>
           <point x="8192" y="0"/>
         </FadeOut>
       </Crossfade>
@@ -470,16 +470,16 @@
           <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
         </extra>
       </Region>
-      <Region id="665" name="lair_amb001.3" start="3532534" length="1524665" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-        <FadeIn default="yes" active="yes"/>
+      <Region id="665" name="lair_amb001.3" start="3532534" length="1524665" position="16601178" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="4870291" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External,SyncMarked" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
+        <FadeIn default="yes" active="no"/>
         <FadeOut default="yes" active="no"/>
         <Envelope default="yes"/>
         <extra>
           <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
         </extra>
       </Region>
-      <Region id="866" name="lair_amb001.4" start="3530688" length="1203410" position="18124381" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
-        <FadeIn default="yes" active="yes"/>
+      <Region id="866" name="lair_amb001.4" start="3530688" length="1203410" position="18124381" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="515" source-1="517" channels="2" master-source-0="515" master-source-1="517">
+        <FadeIn default="yes" active="no"/>
         <FadeOut default="yes" active="yes"/>
         <Envelope default="yes"/>
         <extra>
@@ -489,40 +489,40 @@
       <Crossfade out="550" in="665" active="yes" follow-overlap="yes" fixed="no" length="1893" anchor-point="0" position="16601178">
         <FadeIn>
           <point x="0" y="0"/>
-          <point x="315" y="0.282192"/>
-          <point x="630" y="0.518174"/>
-          <point x="946" y="0.707946"/>
-          <point x="1262" y="0.851507"/>
-          <point x="1577" y="0.948859"/>
+          <point x="315" y="0.282191991806"/>
+          <point x="630" y="0.518173992634"/>
+          <point x="946" y="0.707946002483"/>
+          <point x="1262" y="0.851507008076"/>
+          <point x="1577" y="0.948858976364"/>
           <point x="1893" y="1"/>
         </FadeIn>
         <FadeOut>
           <point x="0" y="1"/>
-          <point x="315" y="0.948859"/>
-          <point x="630" y="0.851507"/>
-          <point x="946" y="0.707946"/>
-          <point x="1262" y="0.518174"/>
-          <point x="1577" y="0.282192"/>
+          <point x="315" y="0.948858976364"/>
+          <point x="630" y="0.851507008076"/>
+          <point x="946" y="0.707946002483"/>
+          <point x="1262" y="0.518173992634"/>
+          <point x="1577" y="0.282191991806"/>
           <point x="1893" y="0"/>
         </FadeOut>
       </Crossfade>
       <Crossfade out="665" in="866" active="yes" follow-overlap="yes" fixed="no" length="1462" anchor-point="0" position="18124381">
         <FadeIn>
           <point x="0" y="0"/>
-          <point x="243" y="0.282192"/>
-          <point x="487" y="0.518174"/>
-          <point x="731" y="0.707946"/>
-          <point x="974" y="0.851507"/>
-          <point x="1218" y="0.948859"/>
+          <point x="243" y="0.282191991806"/>
+          <point x="487" y="0.518173992634"/>
+          <point x="731" y="0.707946002483"/>
+          <point x="974" y="0.851507008076"/>
+          <point x="1218" y="0.948858976364"/>
           <point x="1462" y="1"/>
         </FadeIn>
         <FadeOut>
           <point x="0" y="1"/>
-          <point x="243" y="0.948859"/>
-          <point x="487" y="0.851507"/>
-          <point x="731" y="0.707946"/>
-          <point x="974" y="0.518174"/>
-          <point x="1218" y="0.282192"/>
+          <point x="243" y="0.948858976364"/>
+          <point x="487" y="0.851507008076"/>
+          <point x="731" y="0.707946002483"/>
+          <point x="974" y="0.518173992634"/>
+          <point x="1218" y="0.282191991806"/>
           <point x="1462" y="0"/>
         </FadeOut>
       </Crossfade>
