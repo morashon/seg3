@@ -1,142 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv_sec="1356413693" tv_usec="196176" name="automation range drag">
-    <MementoUndoCommand obj_id="4967" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="4967" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>49046571 0
-49619847 0.0331285633146763
-50186382 0.0389780849218369
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="4967" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="4967" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>49046571 0
-49619847 0.0525407753884792
-50186382 0.0603106543421745
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413847" tv_usec="895395" name="add automation event to Dry/wet mix">
-    <MementoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute">
-        <events>48737508 0.367647058823529
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413852" tv_usec="698066" name="automation event move">
-    <MementoUndoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute">
-        <events>48737508 0.367647058823529
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute">
-        <events>48737508 0.205882355570793
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413869" tv_usec="457737" name="automation event move">
-    <MementoUndoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48737508 0.205882355570793
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48737508 0.176470592617989
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413885" tv_usec="493415" name="add automation event to Dry/wet mix">
-    <MementoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48737508 0.176470592617989
-</events>
-      </AutomationList>
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48737508 0.176470592617989
-48976140 0.411764705882353
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413899" tv_usec="779050" name="add automation event to Dry/wet mix">
-    <MementoCommand obj_id="338" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="338" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute"/>
-      <AutomationList id="338" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48709434 0.220588235294118
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413906" tv_usec="955693" name="automation event move">
-    <MementoUndoCommand obj_id="338" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="338" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48709434 0.220588235294118
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="338" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="338" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48709434 0.147058829665184
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413908" tv_usec="842420" name="add automation event to Dry/wet mix">
-    <MementoCommand obj_id="338" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="338" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48709434 0.147058829665184
-</events>
-      </AutomationList>
-      <AutomationList id="338" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48709434 0.147058829665184
-49004215 0.338235294117647
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413923" tv_usec="343585" name="automation event move">
-    <MementoUndoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48737508 0.176470592617989
-48976140 0.411764705882353
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48737508 0.176470592617989
-48976140 0.367647051811218
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413936" tv_usec="619880" name="automation event move">
-    <MementoUndoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48737508 0.176470592617989
-48976140 0.367647051811218
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>48737508 0.176470592617989
-48976140 0.279411762952805
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356413945" tv_usec="901878" name="add automation event to Dry/wet mix">
+  <UndoTransaction tv_sec="1356413945" tv_usec="140357708621311" name="add automation event to Dry/wet mix">
     <MementoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
       <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
         <events>48737508 0.176470592617989
@@ -151,7 +15,7 @@
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356413949" tv_usec="474761" name="automation event move">
+  <UndoTransaction tv_sec="1356413949" tv_usec="140357708621311" name="automation event move">
     <MementoUndoCommand obj_id="344" type_name="N6ARDOUR14AutomationListE">
       <AutomationList id="344" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
         <events>48737508 0.176470592617989
@@ -169,7 +33,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356413963" tv_usec="402957" name="automation event move">
+  <UndoTransaction tv_sec="1356413963" tv_usec="140357708621311" name="automation event move">
     <MementoUndoCommand obj_id="4967" type_name="N6ARDOUR5CurveE">
       <AutomationList id="4967" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>49046571 0
@@ -187,7 +51,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356413970" tv_usec="345097" name="automation event move">
+  <UndoTransaction tv_sec="1356413970" tv_usec="140357708621311" name="automation event move">
     <MementoUndoCommand obj_id="4967" type_name="N6ARDOUR5CurveE">
       <AutomationList id="4967" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>49046571 0
@@ -205,7 +69,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356413972" tv_usec="139820" name="add gain automation event">
+  <UndoTransaction tv_sec="1356413972" tv_usec="140357708621311" name="add gain automation event">
     <MementoCommand obj_id="4967" type_name="N6ARDOUR5CurveE">
       <AutomationList id="4967" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>49046571 0
@@ -222,7 +86,7 @@
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356413979" tv_usec="444" name="automation range drag">
+  <UndoTransaction tv_sec="1356413979" tv_usec="140357708621311" name="automation range drag">
     <MementoUndoCommand obj_id="4967" type_name="N6ARDOUR5CurveE">
       <AutomationList id="4967" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>49046571 0
@@ -242,7 +106,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356414073" tv_usec="966287" name="add gain automation event">
+  <UndoTransaction tv_sec="1356414073" tv_usec="140357708621311" name="add gain automation event">
     <MementoCommand obj_id="141" type_name="N6ARDOUR5CurveE">
       <AutomationList id="141" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute"/>
       <AutomationList id="141" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
@@ -251,7 +115,7 @@
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356414076" tv_usec="94038" name="automation event move">
+  <UndoTransaction tv_sec="1356414076" tv_usec="140357708621311" name="automation event move">
     <MementoUndoCommand obj_id="141" type_name="N6ARDOUR5CurveE">
       <AutomationList id="141" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>48512913 0.940668940544128
@@ -265,7 +129,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356414077" tv_usec="986820" name="add gain automation event">
+  <UndoTransaction tv_sec="1356414077" tv_usec="140357708621311" name="add gain automation event">
     <MementoCommand obj_id="141" type_name="N6ARDOUR5CurveE">
       <AutomationList id="141" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>48512913 1.00052154064178
@@ -278,7 +142,7 @@
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356414082" tv_usec="505866" name="automation event move">
+  <UndoTransaction tv_sec="1356414082" tv_usec="140357708621311" name="automation event move">
     <MementoUndoCommand obj_id="141" type_name="N6ARDOUR5CurveE">
       <AutomationList id="141" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>48512913 1.00052154064178
@@ -293,5 +157,347 @@
 </events>
       </AutomationList>
     </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361467" tv_usec="745837" name="automation event move">
+    <MementoUndoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.712532162666321
+33991848 0.559656798839569
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 1.28545546531677
+34863791 1.28545546531677
+47840147 1.28545546531677
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.559656798839569
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 1.28545546531677
+34863791 1.28545546531677
+47840147 1.28545546531677
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361470" tv_usec="512796" name="automation event move">
+    <MementoUndoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.559656798839569
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 1.28545546531677
+34863791 1.28545546531677
+47840147 1.28545546531677
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 1.28545546531677
+34863791 1.28545546531677
+47840147 1.28545546531677
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361480" tv_usec="156225" name="automation event move">
+    <MementoUndoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 1.28545546531677
+34863791 1.28545546531677
+47840147 1.28545546531677
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 0.974223136901855
+34863791 1.28545546531677
+47840147 1.28545546531677
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361489" tv_usec="447245" name="automation event move">
+    <MementoUndoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 0.974223136901855
+34863791 1.28545546531677
+47840147 1.28545546531677
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 0.974223136901855
+34863791 0.974223136901855
+47840147 1.28545546531677
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361519" tv_usec="544130" name="automation event move">
+    <MementoUndoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 0.974223136901855
+34863791 0.974223136901855
+47840147 1.28545546531677
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 0.974223136901855
+34863791 0.974223136901855
+47841280 0.974223136901855
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361534" tv_usec="951838" name="automation event move">
+    <MementoUndoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 0.974223136901855
+34863791 0.974223136901855
+47841280 0.974223136901855
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 0.974223136901855
+34863791 0.974223136901855
+47841280 0.974223136901855
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361695" tv_usec="170133" name="automation event move">
+    <MementoUndoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.525254964828491
+34331180 0.754745841026306
+34459862 0.974223136901855
+34863791 0.974223136901855
+47841280 0.974223136901855
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3106" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="3106" default="0.119856797159" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>18779183 0.000575183890759945
+19844929 0.0454394109547138
+32240104 0.0525407902896404
+32540667 0.181186974048615
+33217328 0.181186959147453
+33725305 0.299604952335358
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.559917032718658
+34331180 0.754745841026306
+34459862 0.974223136901855
+34863791 0.974223136901855
+47841280 0.974223136901855
+49111343 0.0278627946972847
+49509208 0
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361763" tv_usec="897908" name="move marker">
+    <MementoCommand obj_id="14" type_name="N6ARDOUR9LocationsE">
+      <Locations>
+        <Location id="17" name="start" start="0" end="0" flags="IsMark,IsStart" locked="no"/>
+        <Location id="16" name="end" start="13230000" end="13230000" flags="IsMark,IsEnd" locked="no"/>
+        <Location id="57" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no"/>
+        <Location id="58" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no"/>
+      </Locations>
+      <Locations>
+        <Location id="17" name="start" start="0" end="0" flags="IsMark,IsStart" locked="no"/>
+        <Location id="16" name="end" start="54774511" end="54774511" flags="IsMark,IsEnd" locked="no"/>
+        <Location id="57" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no"/>
+        <Location id="58" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no"/>
+      </Locations>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361786" tv_usec="286607" name="move marker">
+    <MementoCommand obj_id="14" type_name="N6ARDOUR9LocationsE">
+      <Locations>
+        <Location id="17" name="start" start="0" end="0" flags="IsMark,IsStart" locked="no"/>
+        <Location id="16" name="end" start="54774511" end="54774511" flags="IsMark,IsEnd" locked="no"/>
+        <Location id="57" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no"/>
+        <Location id="58" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no"/>
+      </Locations>
+      <Locations>
+        <Location id="17" name="start" start="0" end="0" flags="IsMark,IsStart" locked="no"/>
+        <Location id="16" name="end" start="54720894" end="54720894" flags="IsMark,IsEnd" locked="no"/>
+        <Location id="57" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no"/>
+        <Location id="58" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no"/>
+      </Locations>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357361793" tv_usec="224669" name="move marker">
+    <MementoCommand obj_id="14" type_name="N6ARDOUR9LocationsE">
+      <Locations>
+        <Location id="17" name="start" start="0" end="0" flags="IsMark,IsStart" locked="no"/>
+        <Location id="16" name="end" start="54720894" end="54720894" flags="IsMark,IsEnd" locked="no"/>
+        <Location id="57" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no"/>
+        <Location id="58" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no"/>
+      </Locations>
+      <Locations>
+        <Location id="17" name="start" start="0" end="0" flags="IsMark,IsStart" locked="no"/>
+        <Location id="16" name="end" start="54586851" end="54586851" flags="IsMark,IsEnd" locked="no"/>
+        <Location id="57" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no"/>
+        <Location id="58" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no"/>
+      </Locations>
+    </MementoCommand>
   </UndoTransaction>
 </UndoHistory>

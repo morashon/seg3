@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="2.0.0" name="seg3" sample-rate="44100" id-counter="5871">
+<Session version="2.0.0" name="seg3" sample-rate="44100" id-counter="6637">
   <Config>
     <Option name="output-auto-connect" value="2"/>
     <Option name="input-auto-connect" value="1"/>
@@ -176,12 +176,12 @@
       <FadeOut default="yes" active="yes"/>
       <Envelope default="yes"/>
     </Region>
-    <Region id="4960" name="prisoner_ambient_7a814b" start="0" length="43805352" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="4956" source-1="4958" channels="2" master-source-0="4956" master-source-1="4958">
+    <Region id="4960" name="prisoner_ambient_7a814b" start="0" length="43805352" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="4956" source-1="4958" channels="2" master-source-0="4956" master-source-1="4958">
       <FadeIn default="yes" active="yes"/>
       <FadeOut default="yes" active="yes"/>
       <Envelope default="yes"/>
     </Region>
-    <Region id="5746" name="prisoner_ambient_7a814b.2" start="36823369" length="6981983" position="38219864" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="4956" source-1="4958" channels="2" master-source-0="4956" master-source-1="4958">
+    <Region id="5746" name="prisoner_ambient_7a814b.2" start="36823369" length="6981983" position="38219864" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="4956" source-1="4958" channels="2" master-source-0="4956" master-source-1="4958">
       <FadeIn default="yes" active="yes"/>
       <FadeOut default="yes" active="yes"/>
       <Envelope default="yes"/>
@@ -199,14 +199,14 @@
   </DiskStreams>
   <Locations>
     <Location id="17" name="start" start="0" end="0" flags="IsMark,IsStart" locked="no"/>
-    <Location id="16" name="end" start="13230000" end="13230000" flags="IsMark,IsHidden,IsEnd" locked="no"/>
+    <Location id="16" name="end" start="54586851" end="54586851" flags="IsMark,IsEnd" locked="no"/>
     <Location id="57" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no"/>
     <Location id="58" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no"/>
   </Locations>
   <Connections/>
   <Routes>
     <Route flags="MasterOut" default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=0:signal=0">
-      <IO name="master" id="18" active="yes" inputs="{Bass/out 1,Piano/out 1,ThisoneRest/out 1,AnnaiRest/out 1,AnnaiSalon/out 1,music2/out 1,prisoner_ambient_7a814b/out 1,MorashonSalon/out 1}{Bass/out 2,Piano/out 2,ThisoneRest/out 2,AnnaiRest/out 2,AnnaiSalon/out 2,music2/out 2,prisoner_ambient_7a814b/out 2,MorashonSalon/out 2}" outputs="{system:playback_1}{system:playback_2}" gain="0.864900887012" iolimits="-1,2,-1,2">
+      <IO name="master" id="18" active="yes" inputs="{MorashonSalon/out 1,AnnaiSalon/out 1,AnnaiRest/out 1,ThisoneRest/out 1,prisoner_ambient_7a814b/out 1,music2/out 1,Piano/out 1,Bass/out 1}{MorashonSalon/out 2,AnnaiSalon/out 2,AnnaiRest/out 2,ThisoneRest/out 2,prisoner_ambient_7a814b/out 2,music2/out 2,Piano/out 2,Bass/out 2}" outputs="{system:playback_1}{system:playback_2}" gain="0.864900887012" iolimits="-1,2,-1,2">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -271,10 +271,10 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="5317"/>
+      <controllable name="recenable" id="6184"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2">
-      <IO name="Bass" id="598" active="yes" inputs="{lair_amb001/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="-1,-1,-1,-1">
+      <IO name="Bass" id="598" active="yes" inputs="{lair_amb001/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.712532162666" iolimits="-1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -337,7 +337,7 @@
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=3:signal=3">
-      <IO name="Piano" id="607" active="yes" inputs="{lair_amb001/out 2}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="-1,-1,-1,-1">
+      <IO name="Piano" id="607" active="yes" inputs="{lair_amb001/out 2}" outputs="{master/in 1}{master/in 2}" gain="0.891554415226" iolimits="-1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -430,19 +430,19 @@
       <remote_control id="5"/>
       <extra>
         <GUI color="44914:19856:8987" strip_width="Wide" shown_mixer="yes" height="68" shown_editor="yes">
-          <gain height="68" shown="yes"/>
+          <gain shown="yes" height="68"/>
           <pan shown="no" height="68"/>
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="5348"/>
+      <controllable name="recenable" id="6215"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3111">
-      <IO name="music2" id="3104" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="1.116585135460" iolimits="1,-1,-1,-1">
+      <IO name="music2" id="3104" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.000575183891" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
-          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="3116" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>21085287 0
@@ -456,7 +456,7 @@
             </Automation>
             <controllable name="panner" id="3115"/>
           </StreamPanner>
-          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="3119" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>21055463 1
@@ -484,13 +484,13 @@
 32540667 0.181186974048615
 33217328 0.181186959147453
 33725305 0.299604952335358
-33880795 0.712532162666321
-33991848 0.559656798839569
-34109807 0.525254964828491
+33880795 0.399997889995575
+33991848 0.475789278745651
+34109807 0.559917032718658
 34331180 0.754745841026306
-34459862 1.28545546531677
-34863791 1.28545546531677
-47840147 1.28545546531677
+34459862 0.974223136901855
+34863791 0.974223136901855
+47841280 0.974223136901855
 49111343 0.0278627946972847
 49509208 0
 </events>
@@ -523,7 +523,7 @@
           <controllable name="roomsize" id="3233"/>
           <port number="3" value="+0.500000"/>
           <controllable name="damp" id="3235"/>
-          <port number="4" value="+0.000000"/>
+          <port number="4" value="+0.558823"/>
           <controllable name="drywet" id="3237"/>
         </ladspa>
         <controls>
@@ -549,7 +549,7 @@
       </Insert>
       <extra>
         <GUI color="27042:21914:38241" shown_mixer="yes" height="68" shown_editor="yes">
-          <gain height="68" shown="yes"/>
+          <gain shown="yes" height="135"/>
           <pan shown="no" height="68"/>
           <Redirect-guitarix_freeverb-2 height="68"/>
           <Redirect-guitarix_freeverb-3 height="68"/>
@@ -557,7 +557,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="5410"/>
+      <controllable name="recenable" id="6228"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=6:signal=6" mode="Normal" diskstream-id="4972">
       <IO name="prisoner_ambient_7a814b" id="4965" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="1,-1,-1,-1">
@@ -593,12 +593,12 @@
       <remote_control id="7"/>
       <extra>
         <GUI color="46253:7686:30892" shown_mixer="yes" height="68" shown_editor="yes">
-          <gain height="68" shown="yes"/>
+          <gain shown="yes" height="68"/>
           <pan shown="no" height="68"/>
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="5423"/>
+      <controllable name="recenable" id="6241"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=7:signal=7">
       <IO name="ThisoneRest" id="288" active="yes" inputs="{restaurant_merge/out 2}" outputs="{master/in 1}{master/in 2}" gain="1.148873329163" iolimits="-1,-1,-1,-1">
@@ -649,7 +649,7 @@
           <controllable name="Reverb time" id="339"/>
           <port number="1" value="+0.250000"/>
           <controllable name="Damping" id="341"/>
-          <port number="2" value="+0.323529"/>
+          <port number="2" value="+0.176471"/>
           <controllable name="Dry/wet mix" id="343"/>
         </ladspa>
         <controls>
@@ -676,8 +676,8 @@
       </Insert>
       <extra>
         <GUI color="19856:34491:13743" shown_mixer="yes" height="68" shown_editor="yes">
-          <gain height="68" shown="yes"/>
-          <pan height="68" shown="no"/>
+          <gain shown="yes" height="68"/>
+          <pan shown="no" height="68"/>
           <Redirect-Plate_reverb-0 height="68"/>
           <Redirect-Plate_reverb-1 height="68"/>
           <Redirect-Plate_reverb-2 height="68"/>
@@ -733,7 +733,7 @@
           <controllable name="Reverb time" id="333"/>
           <port number="1" value="+0.250000"/>
           <controllable name="Damping" id="335"/>
-          <port number="2" value="+0.338235"/>
+          <port number="2" value="+0.147059"/>
           <controllable name="Dry/wet mix" id="337"/>
         </ladspa>
         <controls>
@@ -759,8 +759,8 @@
       </Insert>
       <extra>
         <GUI color="14124:8987:44914" shown_mixer="yes" height="68" shown_editor="yes">
-          <gain height="68" shown="no"/>
-          <pan height="68" shown="no"/>
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
           <Redirect-Plate_reverb-0 height="68"/>
           <Redirect-Plate_reverb-1 height="68"/>
           <Redirect-Plate_reverb-2 height="68"/>
@@ -800,7 +800,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="5385"/>
+      <controllable name="recenable" id="6278"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=10:signal=10">
       <IO name="AnnaiSalon" id="2932" active="yes" inputs="{salon3_merge/out 1}" outputs="{master/in 1}{master/in 2}" gain="1.102719545364" iolimits="-1,-1,-1,-1">
