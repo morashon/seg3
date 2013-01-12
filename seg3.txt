@@ -313,16 +313,17 @@ _Annai: Yeah.  I'm really eating a yeastburger.
 
 _Thisone: ugh.  I've got mac and cheese.
 
+{nudge=3}
+(waiter pours wine)
+
 {time=425}
 _Annai: Well, it looks beautiful.  (cuts into virtual filet mignon)  Presentation is everything.
-
-(waiter pours wine)
 
 fade out
 
 scene: Morashon's salon.  He is alone.  He has a normal human form (one head, four limbs); Annai materializes.
 
-{time=430}
+{time=436}
 _Morashon: Annai!  How nice of you to come.  You look marvelous.
 
 _Annai: (looking around) Where is everyone?
