@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="2.0.0" name="seg3" sample-rate="44100" id-counter="6637">
+<Session version="2.0.0" name="seg3" sample-rate="44100" id-counter="7366">
   <Config>
     <Option name="output-auto-connect" value="2"/>
     <Option name="input-auto-connect" value="1"/>
@@ -271,10 +271,10 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6184"/>
+      <controllable name="recenable" id="6950"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2">
-      <IO name="Bass" id="598" active="yes" inputs="{lair_amb001/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.712532162666" iolimits="-1,-1,-1,-1">
+      <IO name="Bass" id="598" active="yes" inputs="{lair_amb001/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="-1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -337,7 +337,7 @@
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=3:signal=3">
-      <IO name="Piano" id="607" active="yes" inputs="{lair_amb001/out 2}" outputs="{master/in 1}{master/in 2}" gain="0.891554415226" iolimits="-1,-1,-1,-1">
+      <IO name="Piano" id="607" active="yes" inputs="{lair_amb001/out 2}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="-1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -435,14 +435,14 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6215"/>
+      <controllable name="recenable" id="6981"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3111">
-      <IO name="music2" id="3104" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.000575183891" iolimits="1,-1,-1,-1">
+      <IO name="music2" id="3104" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.974223136902" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
-          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="3116" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>21085287 0
@@ -456,7 +456,7 @@
             </Automation>
             <controllable name="panner" id="3115"/>
           </StreamPanner>
-          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="3119" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>21055463 1
@@ -523,7 +523,7 @@
           <controllable name="roomsize" id="3233"/>
           <port number="3" value="+0.500000"/>
           <controllable name="damp" id="3235"/>
-          <port number="4" value="+0.558823"/>
+          <port number="4" value="+0.000000"/>
           <controllable name="drywet" id="3237"/>
         </ladspa>
         <controls>
@@ -557,7 +557,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6228"/>
+      <controllable name="recenable" id="6994"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=6:signal=6" mode="Normal" diskstream-id="4972">
       <IO name="prisoner_ambient_7a814b" id="4965" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="1,-1,-1,-1">
@@ -598,7 +598,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6241"/>
+      <controllable name="recenable" id="7007"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=7:signal=7">
       <IO name="ThisoneRest" id="288" active="yes" inputs="{restaurant_merge/out 2}" outputs="{master/in 1}{master/in 2}" gain="1.148873329163" iolimits="-1,-1,-1,-1">
@@ -800,7 +800,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6278"/>
+      <controllable name="recenable" id="7044"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=10:signal=10">
       <IO name="AnnaiSalon" id="2932" active="yes" inputs="{salon3_merge/out 1}" outputs="{master/in 1}{master/in 2}" gain="1.102719545364" iolimits="-1,-1,-1,-1">

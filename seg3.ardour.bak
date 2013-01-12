@@ -274,7 +274,7 @@
       <controllable name="recenable" id="6184"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2">
-      <IO name="Bass" id="598" active="yes" inputs="{lair_amb001/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="-1,-1,-1,-1">
+      <IO name="Bass" id="598" active="yes" inputs="{lair_amb001/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.712532162666" iolimits="-1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -337,7 +337,7 @@
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=3:signal=3">
-      <IO name="Piano" id="607" active="yes" inputs="{lair_amb001/out 2}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="-1,-1,-1,-1">
+      <IO name="Piano" id="607" active="yes" inputs="{lair_amb001/out 2}" outputs="{master/in 1}{master/in 2}" gain="0.891554415226" iolimits="-1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -399,7 +399,7 @@
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=4:signal=4" mode="Normal" diskstream-id="146">
-      <IO name="restaurant_merge" id="139" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{AnnaiRest/in 1}{ThisoneRest/in 1}" gain="1.274859309196" iolimits="1,-1,-1,-1">
+      <IO name="restaurant_merge" id="139" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{AnnaiRest/in 1}{ThisoneRest/in 1}" gain="1.000521540642" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -438,11 +438,11 @@
       <controllable name="recenable" id="6215"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3111">
-      <IO name="music2" id="3104" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="1,-1,-1,-1">
+      <IO name="music2" id="3104" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.000575183891" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
-          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="3116" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>21085287 0
@@ -456,7 +456,7 @@
             </Automation>
             <controllable name="panner" id="3115"/>
           </StreamPanner>
-          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
             <Automation>
               <AutomationList id="3119" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
                 <events>21055463 1
@@ -523,7 +523,7 @@
           <controllable name="roomsize" id="3233"/>
           <port number="3" value="+0.500000"/>
           <controllable name="damp" id="3235"/>
-          <port number="4" value="+0.000000"/>
+          <port number="4" value="+0.558823"/>
           <controllable name="drywet" id="3237"/>
         </ladspa>
         <controls>
@@ -560,7 +560,7 @@
       <controllable name="recenable" id="6228"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=6:signal=6" mode="Normal" diskstream-id="4972">
-      <IO name="prisoner_ambient_7a814b" id="4965" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.110197529197" iolimits="1,-1,-1,-1">
+      <IO name="prisoner_ambient_7a814b" id="4965" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -649,7 +649,7 @@
           <controllable name="Reverb time" id="339"/>
           <port number="1" value="+0.250000"/>
           <controllable name="Damping" id="341"/>
-          <port number="2" value="+0.323529"/>
+          <port number="2" value="+0.176471"/>
           <controllable name="Dry/wet mix" id="343"/>
         </ladspa>
         <controls>
@@ -733,7 +733,7 @@
           <controllable name="Reverb time" id="333"/>
           <port number="1" value="+0.250000"/>
           <controllable name="Damping" id="335"/>
-          <port number="2" value="+0.338235"/>
+          <port number="2" value="+0.147059"/>
           <controllable name="Dry/wet mix" id="337"/>
         </ladspa>
         <controls>
