@@ -321,13 +321,17 @@ _Annai: Well, it looks beautiful.  (cuts into virtual filet mignon)  Presentatio
 
 fade out
 
+{nudge=-3}
 scene: Morashon's salon.  He is alone.  He has a normal human form (one head, four limbs); Annai materializes.
 
-{time=436}
+{time=435.4}
+{nudge=-1}
 _Morashon: Annai!  How nice of you to come.  You look marvelous.
 
+{nudge=-1}
 _Annai: (looking around) Where is everyone?
 
+{nudge=-1}
 _Morashon: Oh, out and about.  More will come presently.
 
 _Annai: You said you wanted to talk.
@@ -338,9 +342,11 @@ _Annai: He's working.  Might drop by later.
 
 _Morashon: I'm afraid we've overwhelmed him with conundrums.  You're sleeping with him?
 
+{time=461.5}
 _Annai: Yes.
 
-_Morashon: Well that's just beautiful.  You humans, with your sex!  What a divinely bizarre invention.  No god could have thought that up.  Atheists, here is your proof!
+{nudge=1}
+_Morashon: Well that's just beautiful.  You humans, with your sex!  What a divinely bizarre invention.  No God could have thought that up.  Atheists, here's your proof!
 
 _Annai: We're not hitched or anything.  It's just a diversion.
 
@@ -354,36 +360,44 @@ _Annai: I'm not yours.
 
 _Morashon: No, I suppose not.  Not anymore, anyway.
 
+{nudge=1}
 _Annai: What's that supposed to mean?
 
+{nudge=1}
 _Morashon: Nothing, nothing really.  I've seen you change since we first met.
 
+{time=502.5}
 _Annai: That was less than a year ago.
 
+{nudge=2}
 _Morashon: We live in accelerated times.  What is a year, when we never see the sun?
 
-(awkward silence)
-
+{time=512.6}
 _Morashon: Something has changed.
 
 _Annai: What do you mean?
 
 _Morashon: Your feelings towards me.  I sense a resistance.  Suspicion even.
 
+{nudge=.5}
 _Annai: It's not you.  I'm feeling scattered lately.
 
+{nudge=1}
 _Morashon: Maybe this boy means more to you than you think.
 
 _Annai: Why are we talking about this?  We usually talk about philosophy.  History, art, science, religion.  Music.  Not me!  You've never asked about my personal life before.
 
+{nudge=1}
 _Morashon: It's never interfered with our relationship before.
 
+{nudge=.5}
 _Annai: I don't know what you're going on about.
 
 _Morashon: I feel him.  I feel his love for you, and his suspicions about me.  I feel them coursing through your veins.
 
 _Annai: Well, you've got a lot of feelings, for a piece of code.
 
+{time=556}
 _Morashon: As I've explained before --
 
 _Annai: I know, you have something like feelings, emotions.  You profess to have qualia.  You've certainly passed the Turing test, as far as I'm concerned.
@@ -396,22 +410,28 @@ _Morashon: I feel similar things, in my own way.  These perceptions are emergent
 
 _Annai: That's easy for you to say; you know you're bits of silicon, right?
 
+{time=605.5}
 _Morashon: (warily) Right...
 
 _Annai: But I'm flesh and blood.  Thisone too.  When we touch --
 
+{nudge=.5}
 _Morashon: You've touched?  In real life?
 
 _Annai: No, of course not.  I just meant --
 
+{time=617}
 _Morashon: Well then, all your interactions are digital -- just like ours.
 
 _Annai: I realize that.  It's just --
 
+{time=623}
 _Morashon: For all you know, Thisone is another AI.  Perhaps he's the one I've been sensing.  I know there's another in the Grid, somewhere.  He could be feeling me out.  Doing it through you.
 
+{nudge=-1}
 _Annai: Since when are you so paranoid?  You always preach "trust first".
 
+{nudge=-1}
 _Morashon: Trust, but verify.  My philosophy is simple: give everyone the benefit of the doubt, at your first encounter.  Thereafter, judge them by their actions.
 
 _Annai: So -- what has Thisone done to make you not trust him?
@@ -420,10 +440,12 @@ _Morashon: He is trying to steal your heart.
 
 _Annai: From who?  What do you care if we have a relationship?  Why does this matter all of a sudden?  You didn't give a shit when Alexa was around.
 
+{nudge=-.4}
 _Morashon: Alexa never really mattered to you.  This one does.
 
 _Annai: Stop making fun of his name.  Your name is meaningless.
 
+{time=671}
 _Morashon: Hardly.  It was not chosen at random.
 
 _Annai: Well, it doesn't search up as anything.  Maybe you got the spelling wrong.
@@ -432,111 +454,143 @@ _Morashon: (laughs)
 
 _Annai: And another thing -- why are you so normal-looking all of a sudden?
 
+{nudge=-2}
 _Morashon: As you well know, I change my form to suit my mood.  And the situation.
 
+{nudge=-2}
 _Annai: I've just never seen you look this -- human, is all.
 
+{nudge=-2.5}
 Morashon  Shapes, forms, appearances.  It's all just fancy graphics.  Why does it matter to you?
 
+{nudge=3	}
 _Annai: Visual representation is all we've got to go on here, in the Grid.  You know that.  That's why I never change my avatar.  I want to feel like I know who I am.
 
+{time=710}
 _Morashon: Maybe I don't want to feel that way.  We are different species, you and I; we inhabit different metrics.  Time works differently for me.  I am evolving before your eyes.  Perhaps I'm tired of being everyone and everything.
 
 _Annai: Maybe your friends aren't at their controls today.
 
 _Morashon: That sounds like your boyfriend talking.  Does he still believe I'm a performance troupe from Finland?
 
+{nudge=-1}
 _Annai: He doesn't know what to believe.
 
+{nudge=-1}
 _Morashon: Do you?
 
 _Annai: (looking into his eyes) I don't know.  I guess I have some doubts.
 
+{nudge=-1}
 _Morashon: About who I am, or about the things I've taught you?
 
+{nudge=-1}
 _Annai: I can't really separate the two.  How can I know whether to believe what you say, if I don't know who you actually are?
 
+{nudge=-1.6}
 _Morashon: It may surprise you to hear, but I am capable of doubting myself.
 
+{nudge=-1.6}
 _Annai: At least you know who you are.  You have that advantage over me.
 
+{nudge=-1}
 _Morashon: Because you don't know who I am?  Or because you don't know yourself?
 
+{nudge=-1.5}
 _Annai: Look -- you know if you're really software, or a human being faking it.  I know I'm a human being.
 
+{nudge=-1}
 _Morashon: (small smile)
 
 _Annai: What?  What are you trying say?  Is this one of your head fake zen lectures?
 
+{time=780}
 _Morashon: I'm just saying, software has feelings too.
-
-Morashon sings
 
 Song: Mister Happy
 
+{time=786.5}
 _Morashon:
 When
 Mister Happy comes
 Life will be a dream
 Everything will glisten
 
+{time=800}
 _NOACTOR:
 Nobody will be sad
 Everyone will smile
 Everybody listen to the sound
 
+{time=814}
 _Mister Happy's making with his mouth
 Look at all the Happy in his eyes
 Isn't he just so damn happy
 
+{time=835.75}
 _When
 Mister Happy cries
 People get upset
 That's not what he's paid for
 
+{time=847.75}
 _Hey! Mister Happy face
 Won't you make us laugh?
 What the fuck's your problem
 
+{time=860}
 _Are you high?
 Are you just a grifter getting by?
 Look here comes another crummy guy
 Trying to sell us Bogus Happy
 
+{time=882.5}
 _Mister Happy
 Mister Happy
 Mister Happy smile!
 
+{time=902.5}
 _Mister Happy smile
 Mister Happy smile
 Mister Happy smile
 (Won't you smile on me?)
 
+{time=942}
+{hold=10}
 _Mister Happy smile
 Smile, smile!
 
+{time=983}
 _When
 Mister Happy died
 No one gave a damn
 We had all forgotten
 
+{time=996.35}
 _How Mister Happy smiled
 Made us laugh and cry
 No one could remember how we laughed
 
+{time=1010.5}
 _No one could remember why we cried
 No one could remember nothing
 No one's talking
 
+{time=1036}
+{hold=15.5}
 _Mister Happy, won't you smile on me?
 
+{time=1059.5}
+{hold=50}
 _Mister Happy smile
 Mister Happy smile
 Mister Happy smile
-...
+(Won't you smile on me?)
 
+{nudge=-4}
 Scene: Annai's sim.  Annai is there; Thisone materializes
 
+{time=1121}
 _Annai: About time.
 
 _Thisone: Sorry.  I've been pacing around like a madman, trying to figure things out.
