@@ -68,7 +68,7 @@ _Annai: let's keep it "real".
 
 _Thisone: you mean fake?
 
-_Annai: it works for me.  Seemed to work for you last night.
+_Annai: Works for me.  Seemed to work for you last night.
 
 _Thisone: (embarrassed) Sure, it's been -- great.  Better than I expected.
 
@@ -80,6 +80,7 @@ _Annai: (a little flustered) remember, it's just sex.  Gridsex.
 
 _Thisone: I know.  But don't you feel -- something?  A little more than just --
 
+{nudge=-1}
 _Annai: Let's keep it caz.
 
 {time=124}
@@ -112,6 +113,7 @@ _Thisone: You play?
 
 _Annai: I mix.  Same thing really.  The voices are all synthesized.  The only thing we need is lyrics.
 
+{time=159}
 _Thisone: I could try and come up with something.
 
 _Annai: It won't sound exactly like him.  The fans might know something's up.
@@ -124,16 +126,20 @@ _Thisone: So maybe he had a bad night.  It happens.
 
 _Annai: Sure.  Not all his stuff is perfect.  And the sound is always changing.  We'll fake it and see what happens.
 
+{time=183}
 _Thisone: Then, after...
 
 _Annai: We disconnect, let him take over again -- after the show.
 
+{nudge=2}
 _Thisone: He's going to be mad as hell.
 
+{nudge=2}
 _Annai: He won't say anything in front of the crowd.  He won't know exactly what happened -- just that he was locked out of his own avatar for a few minutes.
 
 _Thisone: It should be interesting to see his reaction.
 
+{time=202.5}
 _Annai: I can't wait.
 
 _Thisone: He'll be disoriented for a bit.  Someone might notice.
@@ -146,20 +152,26 @@ _Annai: Have to.  Otherwise, he might suspect us.
 
 _Thisone: Do you think he'll say something?
 
+{time=219}
 _Annai: Not to you.  He might talk to me privately.  I think he trusts me.  As much as he trusts anyone.
 
 _Thisone: I guess you've betrayed him.
 
 _Annai: No.  He betrayed me.  Took advantage of my naivete.  My youthful inexperience.
 
+{nudge=1}
 _Thisone: Could have happened to anyone.
 
+{nudge=1}
 _Annai: I guess age and experience count for something.
 
+{nudge=1}
 _Thisone: You gain wisdom, and lose your innocence.
 
+{nudge=1}
 _Annai: I guess that's what's happening to me.  One quantum of innocence, traded for a quantum of experience.  People are shit; don't trust anyone.
-
+-
+{time=250}
 _Thisone: He's not even a person.
 
 _Annai: That's the part that has me stumped.  As much as I know now, I still think of him as if he's some sort of individual -- particular, unique.
@@ -180,94 +192,119 @@ _Thisone: Deterrence?
 
 _Annai:  Fighting the moral hazard.  If someone takes something from you and destroys it, responding in kind gets you nothing back.
 
+{nudge=-1.2}
 _Thisone: But --
 
 _Annai: It's altruistic -- you're helping the next potential victim.
 
 _Thisone: By teaching the defector a lesson?
 
+{time=300}
 _Annai: Tit for tat.
 
 _Thisone: Prisoner's dilemma, in a community setting.
 
 _Annai: I guess we read the same stuff.
 
+{nudge=-1}
 _Thisone: So, Annai...
 
 _Annai: Yes?
 
+{nudge=1}
 _Thisone: Well, um, I was wondering...
 
+{nudge=1.5}
 _Annai: What am I doing tonight?
 
+{nudge=1.5}
 _Thisone: We could hang out at my place, later.  After we talk.
 
+{nudge=1.5}
 _Annai: Sure.  Nothing cooking at my end.
 
-(awkward silence)
-
+{nudge=2}
 _Thisone: Have you seen him?
 
+{nudge=2}
 _Annai: Since we found out?  No.  I've stayed away.
 
-_Thisone: You probably should show up once or twice.  Stick to your routine.
+{nudge=2}
+_Thisone: You should probably show up once or twice.  Stick to your routine.
 
+{nudge=1}
 _Annai: I don't know if I can face him.
 
+{nudge=1}
 _Thisone: Just be yourself.
 
+{nudge=1}
 _Annai: I'm afraid he'll know something's wrong.
 
-_Thisone: You're a big girl.  You can handle it.  Make an excuse.
+_Thisone: You're a big girl.  You can handle it.  Make up an excuse.
 
 _Annai: That time of the month?
 
 _Thisone: Whatever.  You know him.  Whoever he is, they are, they can't read your mind.
 
+{time=348}
 _Annai: Ok.  But I want you to come.
 
 _Thisone: No, that's not a good idea.
 
 _Annai: Why not?
 
+{nudge=.5}
 _Thisone: Well, for one thing, he might figure out about us -- that we're, um ---
 
+{nudge=.25}
 _Annai: Fucking?
 
+{nudge=.75}
 _Thisone: In a word.
 
+{nudge=1}
 _Annai: So what? He's not my lover.  What's it to him?  As far as I'm supposed to believe, he's not even human.
 
+{time=367.5}
 _Thisone: I don't know.  I have a hunch.
 
+{nudge=.5}
 _Annai: You think he could be jealous?
 
+{nudge=.5}
 _Thisone: We still don't know who's behind this.  A jilted lover?
 
+{nudge=.5}
 _Annai: Trust me, if anyone I ever slept with had this kind of talent, I'd still be with them.  In any case, I would know.  It's not anyone from my life, real or grid.
 
+{time=386}
 _Thisone: How 'bout I piggyback?
 
 _Annai: So you'll come with, as a ghost?
 
 _Thisone: I'll see and feel what you do, and be able to talk to you.
 
-_Annai: But no one else will know.
+_Annai: But no one else will know?
 
-_Thisone: Right.  Just me and you.
+_Thisone: Right.  Just  you and me.
 
 _Annai: From sea to shining sea.
 
 _Thisone: Right.  Stuff sticks in your head.
 
+{time=404}
 _Annai: Like a virus.
 
 _Thisone: I'm hungry.  Let's eat.
 
+{time=407.75}
 _Annai: Ok.
 
+{nudge=2.5}
 Waiter brings food on cue
 
+{time=412}
 _Annai: This stuff is great.  My compliments to the chef.
 
 _Thisone: One thing they haven't gotten right yet.
@@ -276,6 +313,7 @@ _Annai: Yeah.  I'm really eating a yeastburger.
 
 _Thisone: ugh.  I've got mac and cheese.
 
+{time=425}
 _Annai: Well, it looks beautiful.  (cuts into virtual filet mignon)  Presentation is everything.
 
 (waiter pours wine)
@@ -284,6 +322,7 @@ fade out
 
 scene: Morashon's salon.  He is alone.  He has a normal human form (one head, four limbs); Annai materializes.
 
+{time=430}
 _Morashon: Annai!  How nice of you to come.  You look marvelous.
 
 _Annai: (looking around) Where is everyone?
