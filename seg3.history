@@ -1,257 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1357361470" tv-usec="3909317424" name="automation event move">
-    <MementoUndoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.559656798839569
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 1.28545546531677
-34863791 1.28545546531677
-47840147 1.28545546531677
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 1.28545546531677
-34863791 1.28545546531677
-47840147 1.28545546531677
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1357361480" tv-usec="3909317424" name="automation event move">
-    <MementoUndoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 1.28545546531677
-34863791 1.28545546531677
-47840147 1.28545546531677
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 0.974223136901855
-34863791 1.28545546531677
-47840147 1.28545546531677
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1357361489" tv-usec="3909317424" name="automation event move">
-    <MementoUndoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 0.974223136901855
-34863791 1.28545546531677
-47840147 1.28545546531677
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 0.974223136901855
-34863791 0.974223136901855
-47840147 1.28545546531677
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1357361519" tv-usec="3909317424" name="automation event move">
-    <MementoUndoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 0.974223136901855
-34863791 0.974223136901855
-47840147 1.28545546531677
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 0.974223136901855
-34863791 0.974223136901855
-47841280 0.974223136901855
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1357361534" tv-usec="3909317424" name="automation event move">
-    <MementoUndoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 0.974223136901855
-34863791 0.974223136901855
-47841280 0.974223136901855
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 0.974223136901855
-34863791 0.974223136901855
-47841280 0.974223136901855
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1357361695" tv-usec="3909317424" name="automation event move">
-    <MementoUndoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.525254964828491
-34331180 0.754745841026306
-34459862 0.974223136901855
-34863791 0.974223136901855
-47841280 0.974223136901855
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj-id="9198" type-name="AutomationLine">
-      <AutomationList id="3106" default="0.119856797159" min-yval="0" max-yval="2" max-xval="0" state="Play" style="Absolute">
-        <events>18779183 0.000575183890759945
-19844929 0.0454394109547138
-32240104 0.0525407902896404
-32540667 0.181186974048615
-33217328 0.181186959147453
-33725305 0.299604952335358
-33880795 0.399997889995575
-33991848 0.475789278745651
-34109807 0.559917032718658
-34331180 0.754745841026306
-34459862 0.974223136901855
-34863791 0.974223136901855
-47841280 0.974223136901855
-49111343 0.0278627946972847
-49509208 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
+  <UndoTransaction tv-sec="1357361470" tv-usec="3909317424" name="automation event move"/>
+  <UndoTransaction tv-sec="1357361480" tv-usec="3909317424" name="automation event move"/>
+  <UndoTransaction tv-sec="1357361489" tv-usec="3909317424" name="automation event move"/>
+  <UndoTransaction tv-sec="1357361519" tv-usec="3909317424" name="automation event move"/>
+  <UndoTransaction tv-sec="1357361534" tv-usec="3909317424" name="automation event move"/>
+  <UndoTransaction tv-sec="1357361695" tv-usec="3909317424" name="automation event move"/>
   <UndoTransaction tv-sec="1357361763" tv-usec="3909317424" name="move marker"/>
   <UndoTransaction tv-sec="1357361786" tv-usec="3909317424" name="move marker"/>
   <UndoTransaction tv-sec="1357361793" tv-usec="3909317424" name="move marker"/>
@@ -262,7 +16,7 @@
   <UndoTransaction tv-sec="1357977403" tv-usec="3909317424" name="region drag"/>
   <UndoTransaction tv-sec="1357977421" tv-usec="3909317424" name="split"/>
   <UndoTransaction tv-sec="1357977426" tv-usec="3909317424" name="region drag"/>
-  <UndoTransaction tv-sec="1357980554" tv-usec="442885" name="region drag">
+  <UndoTransaction tv-sec="1357980554" tv-usec="3909317424" name="region drag">
     <StatefulDiffCommand obj-id="3060" type-name="ARDOUR::AudioRegion">
       <Changes>
         <position from="18995173" to="19156025"/>
@@ -382,7 +136,7 @@
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1357980599" tv-usec="274179" name="region drag">
+  <UndoTransaction tv-sec="1357980599" tv-usec="3909317424" name="region drag">
     <StatefulDiffCommand obj-id="3060" type-name="ARDOUR::AudioRegion">
       <Changes>
         <position from="19156025" to="19172110"/>
@@ -501,7 +255,7 @@
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1357980638" tv-usec="778549" name="region drag">
+  <UndoTransaction tv-sec="1357980638" tv-usec="3909317424" name="region drag">
     <StatefulDiffCommand obj-id="3060" type-name="ARDOUR::AudioRegion">
       <Changes>
         <position from="19172110" to="19175424"/>
@@ -620,7 +374,7 @@
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1357980654" tv-usec="16688" name="region drag">
+  <UndoTransaction tv-sec="1357980654" tv-usec="3909317424" name="region drag">
     <StatefulDiffCommand obj-id="3060" type-name="ARDOUR::AudioRegion">
       <Changes>
         <position from="19175424" to="19152227"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg3" sample-rate="44100" id-counter="9758" event-counter="0">
+<Session version="3001" name="seg3" sample-rate="44100" id-counter="9759" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>

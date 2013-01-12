@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg3" sample-rate="44100" id-counter="9759" event-counter="0">
+<Session version="3001" name="seg3" sample-rate="44100" id-counter="10931" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -2687,24 +2687,24 @@
     <Route id="18" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="18" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
-          <Connection other="Bass/audio_out 1"/>
-          <Connection other="Piano/audio_out 1"/>
-          <Connection other="music2/audio_out 1"/>
-          <Connection other="prisoner_ambient_7a814b/audio_out 1"/>
-          <Connection other="ThisoneRest/audio_out 1"/>
-          <Connection other="AnnaiRest/audio_out 1"/>
-          <Connection other="AnnaiSalon/audio_out 1"/>
           <Connection other="MorashonSalon/audio_out 1"/>
+          <Connection other="AnnaiSalon/audio_out 1"/>
+          <Connection other="AnnaiRest/audio_out 1"/>
+          <Connection other="ThisoneRest/audio_out 1"/>
+          <Connection other="prisoner_ambient_7a814b/audio_out 1"/>
+          <Connection other="music2/audio_out 1"/>
+          <Connection other="Piano/audio_out 1"/>
+          <Connection other="Bass/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
-          <Connection other="Bass/audio_out 2"/>
-          <Connection other="Piano/audio_out 2"/>
-          <Connection other="music2/audio_out 2"/>
-          <Connection other="prisoner_ambient_7a814b/audio_out 2"/>
-          <Connection other="ThisoneRest/audio_out 2"/>
-          <Connection other="AnnaiRest/audio_out 2"/>
-          <Connection other="AnnaiSalon/audio_out 2"/>
           <Connection other="MorashonSalon/audio_out 2"/>
+          <Connection other="AnnaiSalon/audio_out 2"/>
+          <Connection other="AnnaiRest/audio_out 2"/>
+          <Connection other="ThisoneRest/audio_out 2"/>
+          <Connection other="prisoner_ambient_7a814b/audio_out 2"/>
+          <Connection other="music2/audio_out 2"/>
+          <Connection other="Piano/audio_out 2"/>
+          <Connection other="Bass/audio_out 2"/>
         </Port>
       </IO>
       <IO name="master" id="18" direction="Output" default-type="audio" user-latency="0">
@@ -2760,7 +2760,7 @@
       <RemoteControl id="0"/>
       <Pannable>
         <Controllable name="pan-azimuth" id="8787" flags="" value="0.500000000000"/>
-        <Controllable name="pan-width" id="8791" flags="" value="1.000000000000"/>
+        <Controllable name="pan-width" id="8791" flags="" value="-1.000000000000"/>
         <Controllable name="pan-elevation" id="8789" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="8793" flags="" value="0.000000000000"/>
         <Controllable name="pan-lfe" id="8795" flags="" value="0.000000000000"/>
@@ -2797,7 +2797,7 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="0"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="8818" flags="" value="0.500000000000"/>
+        <Controllable name="pan-azimuth" id="8818" flags="" value="0.108108108108"/>
         <Controllable name="pan-width" id="8822" flags="" value="0.000000000000"/>
         <Controllable name="pan-elevation" id="8820" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="8824" flags="" value="0.000000000000"/>
@@ -2850,7 +2850,7 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="0"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="8849" flags="" value="0.500000000000"/>
+        <Controllable name="pan-azimuth" id="8849" flags="" value="0.905405405405"/>
         <Controllable name="pan-width" id="8853" flags="" value="0.000000000000"/>
         <Controllable name="pan-elevation" id="8851" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="8855" flags="" value="0.000000000000"/>
@@ -2979,7 +2979,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="8924" flags="GainLike" value="0.028572618936"/>
+        <Controllable name="gaincontrol" id="8924" flags="GainLike" value="0.026833451377"/>
       </Processor>
       <Processor id="3228" name="guitarix_freeverb" active="yes" user-latency="0" type="ladspa" unique-id="4064" count="2">
         <Automation>
@@ -3299,7 +3299,7 @@
     </Route>
   </Routes>
   <Playlists>
-    <Playlist id="8474" name="restaurant_merge" type="audio" orig-track-id="146" frozen="no" combine-ops="0">
+    <Playlist id="8474" name="restaurant_merge" type="audio" orig-track-id="139" frozen="no" combine-ops="0">
       <Region locked="0" name="restaurant_merge.11" position="18432" length="5368650" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="0" scale-amplitude="1" id="8097" type="audio" first-edit="nothing" source-0="130" source-1="132" master-source-0="130" master-source-1="132" channels="2">
         <FadeIn>
           <AutomationList automation-id="fadein" id="8477" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
@@ -4502,7 +4502,7 @@
         </InvFadeOut>
       </Region>
     </Playlist>
-    <Playlist id="8433" name="lair_amb001" type="audio" orig-track-id="531" frozen="no" combine-ops="0">
+    <Playlist id="8433" name="lair_amb001" type="audio" orig-track-id="524" frozen="no" combine-ops="0">
       <Region locked="0" name="lair_amb001.2" position="0" length="16603071" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="479232" sync-position="479232" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="0" scale-amplitude="1" id="550" type="audio" first-edit="nothing" source-0="515" source-1="517" master-source-0="515" master-source-1="517" channels="2">
         <FadeIn>
           <AutomationList automation-id="fadein" id="8436" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
@@ -4843,7 +4843,7 @@
         </InvFadeOut>
       </Region>
     </Playlist>
-    <Playlist id="8614" name="music2" type="audio" orig-track-id="3111" frozen="no" combine-ops="0">
+    <Playlist id="8614" name="music2" type="audio" orig-track-id="3104" frozen="no" combine-ops="0">
       <Region locked="0" name="morashon_theme3.3" position="19050035" length="8669914" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="373045" sync-position="373045" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="0" scale-amplitude="1" id="3201" type="audio" first-edit="nothing" source-0="3159" source-1="3161" master-source-0="3159" master-source-1="3161" channels="2">
         <FadeIn>
           <AutomationList automation-id="fadein" id="8617" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
@@ -5178,7 +5178,7 @@
         </InvFadeOut>
       </Region>
     </Playlist>
-    <Playlist id="8654" name="salon3_merge" type="audio" orig-track-id="2900" frozen="no" combine-ops="0">
+    <Playlist id="8654" name="salon3_merge" type="audio" orig-track-id="2893" frozen="no" combine-ops="0">
       <Region locked="0" name="salon3_merge.5" position="19152227" length="2509287" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="0" scale-amplitude="1" id="3060" type="audio" first-edit="nothing" source-0="2884" source-1="2886" master-source-0="2884" master-source-1="2886" channels="2">
         <FadeIn>
           <AutomationList automation-id="fadein" id="8657" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
@@ -5876,7 +5876,7 @@
         </InvFadeOut>
       </Region>
     </Playlist>
-    <Playlist id="8734" name="prisoner_ambient_7a814b" type="audio" orig-track-id="4972" frozen="no" combine-ops="0">
+    <Playlist id="8734" name="prisoner_ambient_7a814b" type="audio" orig-track-id="4965" frozen="no" combine-ops="0">
       <Region locked="0" name="prisoner_ambient_7a814b.1" position="44715569" length="10032222" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="33773130" sync-position="33773130" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="4991" type="audio" first-edit="nothing" source-0="4956" source-1="4958" master-source-0="4956" master-source-1="4958" channels="2">
         <FadeIn>
           <AutomationList automation-id="fadein" id="8737" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
@@ -6080,12 +6080,12 @@
         <Object id="automation 8787" height="72" visible="0"/>
         <Object id="automation 8791" height="72" visible="0"/>
         <Object id="route 598" color="35179:32767:44453"/>
-        <Object id="rtav 598" height="34" visible="1"/>
-        <Object id="automation 8831" height="72" visible="0"/>
+        <Object id="rtav 598" height="73" visible="1"/>
+        <Object id="automation 8831" height="72" visible="1"/>
         <Object id="automation 8818" height="72" visible="0"/>
         <Object id="route 607" color="42340:14396:11796"/>
-        <Object id="rtav 607" height="34" visible="1"/>
-        <Object id="automation 8862" height="72" visible="0"/>
+        <Object id="rtav 607" height="74" visible="1"/>
+        <Object id="automation 8862" height="72" visible="1"/>
         <Object id="automation 8849" height="72" visible="0"/>
         <Object id="route 139" color="15986:26106:14519"/>
         <Object id="rtav 139" height="34" visible="1"/>
