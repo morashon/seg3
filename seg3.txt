@@ -27,7 +27,7 @@ _Thisone: (shudders) Ugh!  that's -- the idea makes me nauseous.  I've really be
 
 _Annai: This is exciting! Like a spy vid!
 
-_Thisone: I'm serious.  We don't know who we're dealing with. (pa­use) Did you order the equipment?
+_Thisone: I'm serious.  We don't know who we're dealing with.  Did you order the equipment?
 
 {nudge=-1}
 _Annai: Yep.
