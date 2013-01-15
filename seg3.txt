@@ -580,19 +580,21 @@ No one's talking
 {hold=15.5}
 _Mister Happy, won't you smile on me?
 
-{time=1059.5}
+{time=1060}
 {hold=50}
 _Mister Happy smile
 Mister Happy smile
 Mister Happy smile
 (Won't you smile on me?)
 
-{nudge=-4}
+{nudge=-2.5}
 Scene: Annai's sim.  Annai is there; Thisone materializes
 
+{nudge=-1}
 {time=1121}
 _Annai: About time.
 
+{nudge=1}
 _Thisone: Sorry.  I've been pacing around like a madman, trying to figure things out.
 
 _Annai: Still want to go through with it?
@@ -603,13 +605,12 @@ _Annai: That makes him insane?
 
 _Thisone: No, they're orthogonal statements.  You know what I mean.  If he's actually a he, why does he tell everyone he's an AI?  If he's really AI, how can he be in love with you?
 
+{time=1146.3}
 _Annai: I don't think he's in love with me.  That's ridiculous.
 
 _Thisone: Why do you say that?
 
 _Annai: What's to love?  I'm just another grid chick.
-
-(pause)
 
 _Thisone: and I'm just another horny coder dude looking for gridsex.
 
@@ -625,28 +626,39 @@ _Annai: He said it, not me.
 
 _Thisone: His music sort of grows on you.
 
+{time=1180.5}
+{nudge=1.5}
 _Annai: Yeah.  Like a cancer.
 
+{time=1184.5}
 _Thisone: I have all the gear.  Tested it out today.
 
 _Annai: Right.  I think we're ready.
 
 _Thisone: Tomorrow night?  He's been tagged you know, the audience will be orders of magnitude bigger than ever.
 
-_Annai: Well it's not like we're actually performing.  Not like in the old days.  We're just managing some data in real time.
+{nudge=-1}
+_Annai: Well, it's not like we're actually performing.  Not like in the old days.  We're just managing some data in real time.
 
+{nudge=-2}
 _Thisone: (pacing) I know, I know.  I'm still nervous, even if it is just glorified DJ-ing.  We'll have to react to anything unexpected.
 
+{nudge=-2.5}
 _Annai: If that happens, I'll just pull the plug.
 
+{nudge=-2.5}
 _Thisone: Leave Morashon holding the bag?
 
+{nudge=-2.5}
 _Annai: Serves him right.  I can't wait to see his face after the show.
 
+{nudge=-2.5}
 _Thisone: Ok.  I guess that's it then.  Break a leg.
 
+{nudge=-3}
 _Annai: What?
 
+{nudge=-2.5}
 _Thisone: It's an old saying.  Means good luck.
 
 _Annai: That's fucked up.
@@ -657,9 +669,11 @@ _Annai: Yup.  With such a big crowd, we won't be missed.
 
 _Thisone: then we slip in, after our song.
 
+{time=1238.5}
 _Annai: sounds like a plan.  Bye lover.
 
+{nudge=-2}
 Annai pecks Thisone on cheek, disappears.  Thisone touches his cheek.
 
-{time=1244}
+{time=1241.5}
 
