@@ -49,7 +49,7 @@ _Thisone: Well like we said, when this is all over, we'll sell the equipment and
 
 _Annai: Sure.  Unless we like it.  We could design a Morashon competitor.  Make a mint.
 
-_Thisone: Start our own cult!
+_Thisone: Start our own cult?
 
 _Annai: Why not?  He did it.  How hard can it be?
 
@@ -95,7 +95,7 @@ _Thisone: I'm trying.
 _Annai: you're OK, for an old dude.
 
 {nudge=2}
-_Thisone: So... when the equipment comes...
+_Thisone: So. When the equipment comes...
 
 {nudge=1.5}
 _Annai: We intercept at the end of one of his concerts.
@@ -111,9 +111,11 @@ _Annai: I'm working on it.
 
 _Thisone: You play?
 
+{nudge=1}
 _Annai: I mix.  Same thing really.  The voices are all synthesized.  The only thing we need is lyrics.
 
 {time=159}
+{nudge=.5}
 _Thisone: I could try and come up with something.
 
 _Annai: It won't sound exactly like him.  The fans might know something's up.
@@ -129,6 +131,7 @@ _Annai: Sure.  Not all his stuff is perfect.  And the sound is always changing. 
 {time=183}
 _Thisone: Then, after...
 
+{nudge=1.3}
 _Annai: We disconnect, let him take over again -- after the show.
 
 {nudge=2}
@@ -142,6 +145,7 @@ _Thisone: It should be interesting to see his reaction.
 {time=202.5}
 _Annai: I can't wait.
 
+{nudge=.5}
 _Thisone: He'll be disoriented for a bit.  Someone might notice.
 
 _Annai: He'll recover.  He's good.
@@ -170,7 +174,7 @@ _Thisone: You gain wisdom, and lose your innocence.
 
 {nudge=1}
 _Annai: I guess that's what's happening to me.  One quantum of innocence, traded for a quantum of experience.  People are shit; don't trust anyone.
--
+
 {time=250}
 _Thisone: He's not even a person.
 
@@ -190,6 +194,7 @@ _Annai: We evolved it for a reason.
 
 _Thisone: Deterrence?
 
+{nudge=1.2}
 _Annai:  Fighting the moral hazard.  If someone takes something from you and destroys it, responding in kind gets you nothing back.
 
 {nudge=-1.2}
@@ -301,8 +306,8 @@ _Thisone: I'm hungry.  Let's eat.
 {time=407.75}
 _Annai: Ok.
 
-{nudge=2.5}
-Waiter brings food on cue
+{nudge=-2.5}
+Waiter brings out the food. They begin to "eat".
 
 {time=412}
 _Annai: This stuff is great.  My compliments to the chef.
@@ -313,13 +318,11 @@ _Annai: Yeah.  I'm really eating a yeastburger.
 
 _Thisone: ugh.  I've got mac and cheese.
 
-{nudge=3}
-(waiter pours wine)
+{nudge=4.4}
+(waiter pours wine as scene fades)
 
 {time=425}
 _Annai: Well, it looks beautiful.  (cuts into virtual filet mignon)  Presentation is everything.
-
-fade out
 
 {nudge=-3}
 scene: Morashon's salon.  He is alone.  He has a normal human form (one head, four limbs); Annai materializes.
@@ -369,10 +372,10 @@ _Morashon: Nothing, nothing really.  I've seen you change since we first met.
 {time=502.5}
 _Annai: That was less than a year ago.
 
-{nudge=2}
 _Morashon: We live in accelerated times.  What is a year, when we never see the sun?
 
 {time=512.6}
+{nudge=-.5}
 _Morashon: Something has changed.
 
 _Annai: What do you mean?
@@ -499,8 +502,8 @@ _Morashon: Because you don't know who I am?  Or because you don't know yourself?
 {nudge=-1.5}
 _Annai: Look -- you know if you're really software, or a human being faking it.  I know I'm a human being.
 
-{nudge=-1}
-_Morashon: (small smile)
+{nudge=-4}
+Morashon's face displays a slight smile
 
 _Annai: What?  What are you trying say?  Is this one of your head fake zen lectures?
 
