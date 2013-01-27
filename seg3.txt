@@ -496,10 +496,11 @@ _Morashon: It may surprise you to hear, but I am capable of doubting myself.
 {nudge=-1.6}
 _Annai: At least you know who you are.  You have that advantage over me.
 
+{time=762}
 {nudge=-1}
 _Morashon: Because you don't know who I am?  Or because you don't know yourself?
 
-{nudge=-1.5}
+{nudge=-1.6}
 _Annai: Look -- you know if you're really software, or a human being faking it.  I know I'm a human being.
 
 {nudge=-4}
@@ -511,6 +512,7 @@ _Annai: What?  What are you trying say?  Is this one of your head fake zen lectu
 _Morashon: I'm just saying, software has feelings too.
 
 Song: Mister Happy
+Visual idea: Morashon is a mechanical automaton in some sort of arcade.  Either Chuck E. Cheese, or one of those old fortune-telling machines in a glass booth.  His face, plastic and doll-like, is painted in clown colors dulled by age.  His head and limbs move jerkily as he sings.
 
 {time=786.5}
 _Morashon:
@@ -621,12 +623,13 @@ _Annai: Right.  We're just stereotypes in someone's crappy vidflick.
 
 _Thisone: So life has no meaning?
 
-_Annai: I didn't say that.  Sometimes my life feels meaningless.  Other times not.  I thought Morashon meant something.  Apparently he's just another crappy guy.
+_Annai: I didn't say that.  Sometimes my life feels meaningless.  Other times not.  I thought Morashon meant something.  Apparently, he's just another crappy guy.
 
 _Thisone: Trying to sell us Bogus Happy?
 
 _Annai: He said it, not me.
 
+{nudge=1}
 _Thisone: His music sort of grows on you.
 
 {time=1180.5}
@@ -638,13 +641,17 @@ _Thisone: I have all the gear.  Tested it out today.
 
 _Annai: Right.  I think we're ready.
 
+{nudge=1}
 _Thisone: Tomorrow night?  He's been tagged you know, the audience will be orders of magnitude bigger than ever.
 
 {nudge=-1}
 _Annai: Well, it's not like we're actually performing.  Not like in the old days.  We're just managing some data in real time.
 
 {nudge=-2}
-_Thisone: (pacing) I know, I know.  I'm still nervous, even if it is just glorified DJ-ing.  We'll have to react to anything unexpected.
+Thisone is pacing the room
+
+{nudge=-2}
+_Thisone: I know, I know.  I'm still nervous, even if it is just glorified DJ-ing.  We'll have to react to anything unexpected.
 
 {nudge=-2.5}
 _Annai: If that happens, I'll just pull the plug.
@@ -658,10 +665,10 @@ _Annai: Serves him right.  I can't wait to see his face after the show.
 {nudge=-2.5}
 _Thisone: Ok.  I guess that's it then.  Break a leg.
 
-{nudge=-3}
+{nudge=-2}
 _Annai: What?
 
-{nudge=-2.5}
+{nudge=-1.1}
 _Thisone: It's an old saying.  Means good luck.
 
 _Annai: That's fucked up.
@@ -678,5 +685,5 @@ _Annai: sounds like a plan.  Bye lover.
 {nudge=-2}
 Annai pecks Thisone on cheek, disappears.  Thisone touches his cheek.
 
-{time=1241.5}
+{time=1244}
 
