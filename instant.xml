@@ -39,7 +39,7 @@
         <Port name="master/audio_out 2"/>
       </Channel>
     </ExportChannelConfiguration>
-    <ExportFormat id="34ccae76-78f9-449c-b341-c2695ee39e2d"/>
+    <ExportFormat id="6faba3b7-80c5-43b1-9ed4-c70e49ebf2bd"/>
     <ExportFilename>
       <Folder relative="true" path="/export"/>
       <Field name="label" enabled="true" value="seg3"/>
@@ -56,7 +56,7 @@
       <Release/>
     </Buttons>
     <Selection>
-      <RouteView id="3104"/>
+      <RouteView id="288"/>
       <Marker id="8220" start="no"/>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
