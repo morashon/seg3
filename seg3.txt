@@ -25,6 +25,7 @@ _Annai: You probably are.  Nothing's private anymore.  I'm sure someone is getti
 {time=34}
 _Thisone: (shudders) Ugh!  that's -- the idea makes me nauseous.  I've really beefed up my firewall, but I just don't know.  I thought we should take precautions.
 
+{nudge=-.7}
 _Annai: This is exciting! Like a spy vid!
 
 _Thisone: I'm serious.  We don't know who we're dealing with.  Did you order the equipment?
@@ -57,8 +58,11 @@ _Thisone: So how is this going to work?
 
 _Annai: We'll be getting the stuff in a couple weeks.  I need your real address.
 
+{nudge=1.2}
+Thisone messages Annai his address
+
 {time=91.5}
-_Thisone: Sure. (sends it). Now you know where I live.
+_Thisone: Sure. Now you know where I live.
 
 _Annai: don't worry, I won't stalk you.  That would cost real money.
 
@@ -186,7 +190,7 @@ _Annai: So Morashon is a work of art?
 
 _Thisone: Transgressive art, yes.  He's got me thinking, that's for sure.
 
-_Annai: Yeah, he has me thinking too. (pause) I think I want revenge.
+_Annai: Yeah, he has me thinking too. I think I want revenge.
 
 _Thisone: Revenge is not a very healthy emotion.
 
@@ -316,7 +320,7 @@ _Thisone: One thing they haven't gotten right yet.
 
 _Annai: Yeah.  I'm really eating a yeastburger.
 
-_Thisone: ugh.  I've got mac and cheese.
+_Thisone: Ugh.  I've got mac and cheese.
 
 {nudge=4.4}
 (waiter pours wine as scene fades)
@@ -403,7 +407,7 @@ _Annai: Well, you've got a lot of feelings, for a piece of code.
 {time=556}
 _Morashon: As I've explained before --
 
-_Annai: I know, you have something like feelings, emotions.  You profess to have qualia.  You've certainly passed the Turing test, as far as I'm concerned.
+_Annai: I know, you have something like feelings, emotions.  You profess to have 'qualia'.  You've certainly passed the Turing test, as far as I'm concerned.
 
 _Morashon: Feelings, intuitions, qualia -- they're all just the result of subtle patterns of information, flowing through our mental substrate.
 
@@ -464,7 +468,7 @@ _Morashon: As you well know, I change my form to suit my mood.  And the situatio
 _Annai: I've just never seen you look this -- human, is all.
 
 {nudge=-2.5}
-Morashon  Shapes, forms, appearances.  It's all just fancy graphics.  Why does it matter to you?
+_Morashon  Shapes, forms, appearances.  It's all just fancy graphics.  Why does it matter to you?
 
 {nudge=3	}
 _Annai: Visual representation is all we've got to go on here, in the Grid.  You know that.  That's why I never change my avatar.  I want to feel like I know who I am.
@@ -564,6 +568,7 @@ Mister Happy smile
 {hold=10}
 _Mister Happy smile
 Smile, smile!
+(Mr. Happy, Mr. Happy..)
 
 {time=983}
 _When
@@ -586,7 +591,7 @@ No one's talking
 _Mister Happy, won't you smile on me?
 
 {time=1060}
-{hold=50}
+{hold=33}
 _Mister Happy smile
 Mister Happy smile
 Mister Happy smile
@@ -673,7 +678,7 @@ _Thisone: It's an old saying.  Means good luck.
 
 _Annai: That's fucked up.
 
-_Thisone: See you on stage then I guess.
+_Thisone: See you on stage then, I guess.
 
 _Annai: Yup.  With such a big crowd, we won't be missed.
 
