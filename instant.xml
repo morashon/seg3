@@ -39,10 +39,10 @@
         <Port name="master/audio_out 2"/>
       </Channel>
     </ExportChannelConfiguration>
-    <ExportFormat id="34ccae76-78f9-449c-b341-c2695ee39e2d"/>
+    <ExportFormat id="c3174ecf-dd67-45b5-9ebe-2bdf6cab7a2d"/>
     <ExportFilename>
       <Folder relative="true" path="/export"/>
-      <Field name="label" enabled="true" value="seg3"/>
+      <Field name="label" enabled="true" value="seg3c"/>
       <Field name="session" enabled="false"/>
       <Field name="revision" enabled="false"/>
       <Field name="time" enabled="false" value="T_None"/>
@@ -62,7 +62,5 @@
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
   </Editor>
-  <Mixer narrow-strips="no" show-mixer="no">
-    <geometry x-size="1388" y-size="880" x-pos="0" y-pos="0" x-off="0" y-off="0" mixer-rhs-pane1-pos="293" mixer-list-hpane-pos="75"/>
-  </Mixer>
+  <Mixer narrow-strips="no" show-mixer="no"/>
 </instant>
