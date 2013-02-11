@@ -56,11 +56,13 @@
       <Release/>
     </Buttons>
     <Selection>
-      <RouteView id="288"/>
+      <AutomationView id="21175" parameter="gain"/>
       <Marker id="8220" start="no"/>
       <Marker id="19787" start="yes"/>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
   </Editor>
-  <Mixer narrow-strips="no" show-mixer="no"/>
+  <Mixer narrow-strips="no" show-mixer="yes">
+    <geometry x-size="1324" y-size="765" x-pos="1" y-pos="1" x-off="0" y-off="0" mixer-rhs-pane1-pos="255" mixer-list-hpane-pos="205"/>
+  </Mixer>
 </instant>
