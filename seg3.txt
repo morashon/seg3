@@ -455,22 +455,25 @@ _Annai: Stop making fun of his name.  Your name is meaningless.
 {time=671}
 _Morashon: Hardly.  It was not chosen at random.
 
+{nudge=.4}
 _Annai: Well, it doesn't search up as anything.  Maybe you got the spelling wrong.
 
+{nudge=.6}
 _Morashon: (laughs)
 
+{nudge=1.4}
 _Annai: And another thing -- why are you so normal-looking all of a sudden?
 
-{nudge=-2}
+{nudge=-.7}
 _Morashon: As you well know, I change my form to suit my mood.  And the situation.
 
-{nudge=-2}
+{nudge=-1}
 _Annai: I've just never seen you look this -- human, is all.
 
-{nudge=-2.5}
+{nudge=-.5}
 _Morashon  Shapes, forms, appearances.  It's all just fancy graphics.  Why does it matter to you?
 
-{nudge=3	}
+{nudge=2}
 _Annai: Visual representation is all we've got to go on here, in the Grid.  You know that.  That's why I never change my avatar.  I want to feel like I know who I am.
 
 {time=710}
@@ -487,6 +490,8 @@ _Annai: He doesn't know what to believe.
 _Morashon: Do you?
 
 _Annai: (looking into his eyes) I don't know.  I guess I have some doubts.
+
+Intro to "Mr Happy"
 
 {nudge=-1}
 _Morashon: About who I am, or about the things I've taught you?
@@ -559,16 +564,32 @@ Mister Happy
 Mister Happy smile!
 
 {time=902.5}
-_Mister Happy smile
-Mister Happy smile
-Mister Happy smile
+_Mister Happy smile!
+Mister Happy smile...
+
+{time=912}
+_
 (Won't you smile on me?)
+
+{time=918}
+_
+Mister Happy smile!
+Mister Happy smile...
+
+{time=926}
+_
+(Mr. Happy, Mr. Happy..)
+(Won't you smile on me?)
+
+{time=937}
+_
+Mister Happy smile!
+Mister Happy smile...
 
 {time=942}
 {hold=10}
 _Mister Happy smile
 Smile, smile!
-(Mr. Happy, Mr. Happy..)
 
 {time=983}
 _When
